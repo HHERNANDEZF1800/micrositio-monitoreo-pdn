@@ -4,7 +4,7 @@ USE monitoreo_pdn;
 -- Tabla de catálogo de sistemas
 CREATE TABLE IF NOT EXISTS catalogo_sistemas (
     id INT PRIMARY KEY,
-    codigo VARCHAR(10) NOT NULL,
+    codigo VARCHAR(30) NOT NULL,
     nombre VARCHAR(255) NOT NULL,
     
     INDEX idx_codigo (codigo)
@@ -14,7 +14,10 @@ CREATE TABLE IF NOT EXISTS catalogo_sistemas (
 INSERT INTO catalogo_sistemas (id, codigo, nombre) VALUES 
 (1, 'S1', 'Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal'),
 (2, 'S2', 'Sistema de los servidores públicos que intervengan en procedimientos de contrataciones públicas'),
-(3, 'S3', 'Sistema nacional de servidores públicos y particulares sancionados');
+(3, 'S3_graves', 'Sistema nacional de servidores públicos y particulares sancionados - Faltas graves'),
+(4, 'S3_no_graves', 'Sistema nacional de servidores públicos y particulares sancionados - Faltas no graves'),
+(5, 'S3_personas_fisicas', 'Sistema nacional de servidores públicos y particulares sancionados - Personas físicas'),
+(6, 'S3_personas_morales', 'Sistema nacional de servidores públicos y particulares sancionados - Personas morales');
 
 CREATE TABLE IF NOT EXISTS registros_ejecucion (
     id INT AUTO_INCREMENT PRIMARY KEY,
