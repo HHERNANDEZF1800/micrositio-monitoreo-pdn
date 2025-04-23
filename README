@@ -1,0 +1,109 @@
+import asyncio
+import logging
+from datetime import datetime, timedelta
+
+from sqlalchemy.ext.asyncio import AsyncSession
+
+from app.config import settings
+from app.core.calculo import CalculadorEstadisticas
+from app.core.conexiones import PDNConnector
+from app.db.database import AsyncSessionLocal
+
+# Configurar logging
+logger = logging.getLogger(__name__)
+
+async def ejecutar_monitoreo():
+    """
+    Ejecuta el monitoreo de todos los sistemas de la PDN y guarda los resultados
+    """
+    db = AsyncSessionLocal()
+    try:
+        logger.info("Iniciando ejecución programada del monitoreo")
+        
+        # Crear conector a la PDN
+        connector = PDNConnector()
+        
+        # Ejecutar monitoreo
+        resultados = await connector.monitorear_todos_sistemas(db)
+        
+        # Guardar resultados
+        await connector.guardar_resultados_monitoreo(db, resultados)
+        
+        # Contar registros procesados
+        total_sistemas = len(resultados)
+        total_registros = sum(len(sistema_resultados) for sistema_resultados in resultados.values())
+        
+        logger.info(f"Monitoreo completado: {total_sistemas} sistemas, {total_registros} registros")
+        
+        # Generar estadísticas
+        await generar_estadisticas(db)
+        
+    except Exception as e:
+        logger.error(f"Error en la ejecución del monitoreo programado: {str(e)}")
+    finally:
+        await db.close()
+
+async def generar_estadisticas(db: AsyncSession):
+    """
+    Genera las estadísticas de disponibilidad y actualización
+    
+    Args:
+        db: Sesión de base de datos
+    """
+    try:
+        logger.info("Generando estadísticas de disponibilidad")
+        
+        # Generar estadísticas para los últimos 30 días
+        fecha_fin = datetime.now()
+        fecha_inicio = fecha_fin - timedelta(days=30)
+        
+        # Disponibilidad
+        disponibilidad = await CalculadorEstadisticas.generar_estadisticas_disponibilidad(
+            db, fecha_inicio, fecha_fin
+        )
+        logger.info(f"Generadas {len(disponibilidad)} estadísticas de disponibilidad")
+        
+        # Actualización
+        actualizacion = await CalculadorEstadisticas.generar_estadisticas_actualizacion(
+            db, fecha_inicio, fecha_fin
+        )
+        logger.info(f"Generadas {len(actualizacion)} estadísticas de actualización")
+        
+    except Exception as e:
+        logger.error(f"Error al generar estadísticas: {str(e)}")
+
+def programar_tareas():
+    """
+    Configura las tareas programadas utilizando el programador adecuado
+    
+    Esta función debe ser llamada al inicio de la aplicación
+    """
+    try:
+        # En un entorno de producción, se utilizaría un programador de tareas
+        # como Celery, APScheduler, o similar. Para simplificar, este es un ejemplo
+        # de cómo podría hacerse con APScheduler:
+        
+        # from apscheduler.schedulers.asyncio import AsyncIOScheduler
+        # from apscheduler.triggers.cron import CronTrigger
+        
+        # scheduler = AsyncIOScheduler()
+        # scheduler.add_job(
+        #     ejecutar_monitoreo,
+        #     CronTrigger.from_crontab(settings.COLLECTOR_SCHEDULE),  # "0 10 * * *" = 10:00 AM todos los días
+        #     id="monitoreo_diario",
+        #     name="Monitoreo diario de la PDN",
+        #     replace_existing=True
+        # )
+        # scheduler.start()
+        
+        logger.info("Tareas programadas configuradas correctamente")
+        
+    except Exception as e:
+        logger.error(f"Error al configurar tareas programadas: {str(e)}")
+
+# Para pruebas manuales
+if __name__ == "__main__":
+    async def main():
+        await ejecutar_monitoreo()
+    
+    asyncio.run(main())
