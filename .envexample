@@ -1,3 +1,5 @@
+
+
 MYSQL_ROOT_PASSWORD=root_password
 DB_NAME=monitoreo_pdn
 DB_USER=usuario_app
