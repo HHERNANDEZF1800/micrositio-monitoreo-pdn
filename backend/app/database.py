@@ -1,16 +1,45 @@
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
-import os
-from dotenv import load_dotenv
+from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
+from sqlalchemy.orm import sessionmaker
 
-load_dotenv()
+from app.config import settings
 
-DATABASE_URL = f"mysql+mysqlconnector://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}"
+# URL de la base de datos (convertir a versión async si es necesario)
+# Para SQLAlchemy 2.0+ con soporte async
+SQLALCHEMY_DATABASE_URL = settings.DATABASE_URL.replace('mysql+pymysql', 'mysql+aiomysql')
 
-engine = create_engine(
-    DATABASE_URL, pool_pre_ping=True, pool_recycle=3600
+# Motor de base de datos asíncrono
+engine = create_async_engine(
+    SQLALCHEMY_DATABASE_URL,
+    echo=True,  # Útil para depuración, pero mejor desactivarlo en producción
+    pool_pre_ping=True  # Verificar conexión antes de usar
 )
-SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
+# Sesión asíncrona
+SessionLocal = sessionmaker(
+    autocommit=False,
+    autoflush=False,
+    bind=engine,
+    class_=AsyncSession
+)
+
+# Clase base para los modelos
 Base = declarative_base()
+
+# Función para obtener una sesión de la base de datos
+async def get_db():
+    """
+    Dependencia para obtener una sesión de la base de datos.
+    Se usa como dependencia en los endpoints de la API.
+    """
+    db = SessionLocal()
+    try:
+        yield db
+        await db.commit()
+    except Exception:
+        await db.rollback()
+        raise
+    finally:
+        await db.close()

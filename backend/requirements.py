@@ -1,7 +1,12 @@
-fastapi==0.104.1
-uvicorn==0.23.2
-sqlalchemy==2.0.22
-pymysql==1.1.0
-pydantic==2.4.2
-python-dotenv==1.0.0
-cryptography==41.0.5
+fastapi>=0.95.0
+uvicorn>=0.21.1
+sqlalchemy>=2.0.9
+pydantic>=2.0.0
+pymysql>=1.0.3
+cryptography>=40.0.0
+python-dotenv>=1.0.0
+aiomysql>=0.1.1
+asyncio>=3.4.3
+fastapi-pagination>=0.12.0
+python-jose>=3.3.0  # Para JWT si decides implementar autenticación
+passlib>=1.7.4      # Para el manejo de contraseñas si decides implementar autenticación

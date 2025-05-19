@@ -1,0 +1,11 @@
+MYSQL_ROOT_PASSWORD=root_password
+DB_NAME=monitoreo_pdn
+DB_USER=usuario_app
+DB_PASSWORD=password
+DB_HOST=localhost
+DB_PORT=3306
+
+# Configuración del servidor
+API_V1_STR=/api/v1
+PROJECT_NAME="Monitor de Plataforma Digital Nacional API"
+BACKEND_CORS_ORIGINS=["http://localhost:3000","http://localhost:8080","http://localhost:8000"]
