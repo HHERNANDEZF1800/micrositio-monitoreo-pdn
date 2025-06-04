@@ -1,3 +1,1 @@
-"""
-Endpoints de la API.
-"""
+# Archivo vacío para marcar el directorio como paquete

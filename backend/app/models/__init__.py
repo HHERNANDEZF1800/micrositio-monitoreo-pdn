@@ -1,5 +1,1 @@
-"""
-Modelos SQLAlchemy para la base de datos.
-"""
-
-from app.models.models import CatalogoSistema, RegistroEjecucion
+# Archivo vacío para marcar el directorio como paquete
