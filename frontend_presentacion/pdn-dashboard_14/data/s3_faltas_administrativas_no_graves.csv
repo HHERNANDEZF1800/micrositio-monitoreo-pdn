@@ -1,0 +1,1047 @@
+FECHA_EJECUCION,HORA_EJECUCION,ENTE,TOTAL_REGISTROS,ESTATUS
+2025-03-16,12:57:29,Guanajuato,22,Disponible
+2025-03-16,12:57:31,Quintana Roo,0,Disponible
+2025-03-16,12:57:31,Chihuahua,0,Disponible
+2025-03-16,12:57:33,Veracruz,6,Disponible
+2025-03-16,12:57:34,Guerrero,23,Disponible
+2025-03-16,12:57:35,Yucatán,0,No disponible/socket hang up
+2025-03-16,12:57:37,Puebla,0,Disponible
+2025-03-16,12:57:38,Jalisco,3535,Disponible
+2025-03-16,12:57:40,México,8661,Disponible
+2025-03-16,12:57:41,Tlaxcala,28,Disponible
+2025-03-16,12:57:43,Baja California Sur,187,Disponible
+2025-03-16,12:59:09,Michoacán,0,No disponible/Request failed with status code 400
+2025-03-16,12:59:10,Durango,0,Disponible
+2025-03-16,12:59:14,Sinaloa,445,Disponible
+2025-03-16,12:59:15,Tabasco,196,Disponible
+2025-03-16,12:59:17,Tamaulipas,0,Disponible
+2025-03-16,12:59:18,Baja California,0,Disponible
+2025-03-17,15:18:40,Guanajuato,22,Disponible
+2025-03-17,15:18:42,Quintana Roo,0,Disponible
+2025-03-17,15:18:43,Chihuahua,0,Disponible
+2025-03-17,15:18:45,Veracruz,6,Disponible
+2025-03-17,15:18:47,Guerrero,23,Disponible
+2025-03-17,15:18:49,Yucatán,5,Disponible
+2025-03-17,15:18:50,Puebla,0,Disponible
+2025-03-17,15:18:53,Jalisco,3535,Disponible
+2025-03-17,15:18:54,México,8661,Disponible
+2025-03-17,15:18:56,Tlaxcala,28,Disponible
+2025-03-17,15:18:58,Baja California Sur,187,Disponible
+2025-03-17,15:20:02,Michoacán,0,No disponible/socket hang up
+2025-03-17,15:20:05,Durango,0,Disponible
+2025-03-17,15:20:10,Sinaloa,445,Disponible
+2025-03-17,15:20:14,Tabasco,196,Disponible
+2025-03-17,15:20:16,Tamaulipas,0,Disponible
+2025-03-17,15:20:17,Baja California,0,Disponible
+2025-03-18,10:58:58,Guanajuato,22,Disponible
+2025-03-18,10:59:01,Quintana Roo,0,Disponible
+2025-03-18,10:59:02,Chihuahua,0,Disponible
+2025-03-18,10:59:03,Veracruz,6,Disponible
+2025-03-18,10:59:05,Guerrero,23,Disponible
+2025-03-18,10:59:08,Yucatán,5,Disponible
+2025-03-18,10:59:09,Puebla,0,Disponible
+2025-03-18,10:59:11,Jalisco,3535,Disponible
+2025-03-18,10:59:13,México,8661,Disponible
+2025-03-18,10:59:15,Tlaxcala,28,Disponible
+2025-03-18,10:59:17,Baja California Sur,187,Disponible
+2025-03-18,10:59:23,Michoacán,0,No disponible/Request failed with status code 400
+2025-03-18,10:59:24,Durango,0,Disponible
+2025-03-18,10:59:27,Sinaloa,445,Disponible
+2025-03-18,10:59:29,Tabasco,196,Disponible
+2025-03-18,10:59:32,Tamaulipas,0,Disponible
+2025-03-18,10:59:33,Baja California,0,Disponible
+2025-03-18,11:08:24,Guanajuato,22,Disponible
+2025-03-18,11:08:26,Quintana Roo,0,Disponible
+2025-03-18,11:08:28,Chihuahua,0,Disponible
+2025-03-18,11:08:30,Veracruz,6,Disponible
+2025-03-18,11:08:32,Guerrero,23,Disponible
+2025-03-18,11:08:34,Yucatán,5,Disponible
+2025-03-18,11:08:35,Puebla,0,Disponible
+2025-03-18,11:08:38,Jalisco,3535,Disponible
+2025-03-18,11:08:40,México,8661,Disponible
+2025-03-18,11:08:41,Tlaxcala,28,Disponible
+2025-03-18,11:08:43,Baja California Sur,187,Disponible
+2025-03-18,11:08:49,Michoacán,0,No disponible/Request failed with status code 400
+2025-03-18,11:08:50,Durango,0,Disponible
+2025-03-18,11:08:53,Sinaloa,445,Disponible
+2025-03-18,11:08:55,Tabasco,196,Disponible
+2025-03-18,11:08:58,Tamaulipas,0,Disponible
+2025-03-18,11:08:59,Baja California,0,Disponible
+2025-03-19,11:47:18,Guanajuato,22,Disponible
+2025-03-19,11:47:20,Quintana Roo,0,Disponible
+2025-03-19,11:47:22,Chihuahua,0,Disponible
+2025-03-19,11:47:23,Veracruz,6,Disponible
+2025-03-19,11:47:25,Guerrero,23,Disponible
+2025-03-19,11:47:27,Yucatán,5,Disponible
+2025-03-19,11:47:28,Puebla,0,Disponible
+2025-03-19,11:47:30,Jalisco,3535,Disponible
+2025-03-19,11:47:32,México,8661,Disponible
+2025-03-19,11:47:34,Tlaxcala,28,Disponible
+2025-03-19,11:47:36,Baja California Sur,187,Disponible
+2025-03-19,11:47:38,Michoacán,0,Disponible
+2025-03-19,11:47:40,Durango,0,Disponible
+2025-03-19,11:47:43,Sinaloa,445,Disponible
+2025-03-19,11:47:45,Tabasco,196,Disponible
+2025-03-19,11:47:47,Tamaulipas,0,Disponible
+2025-03-19,11:47:49,Baja California,0,Disponible
+2025-03-20,10:02:52,Guanajuato,22,Disponible
+2025-03-20,10:02:54,Quintana Roo,0,Disponible
+2025-03-20,10:02:55,Chihuahua,0,Disponible
+2025-03-20,10:02:57,Veracruz,6,Disponible
+2025-03-20,10:02:59,Guerrero,23,Disponible
+2025-03-20,10:03:01,Yucatán,5,Disponible
+2025-03-20,10:03:03,Puebla,0,Disponible
+2025-03-20,10:03:05,Jalisco,3535,Disponible
+2025-03-20,10:03:07,México,8661,Disponible
+2025-03-20,10:03:09,Tlaxcala,28,Disponible
+2025-03-20,10:03:11,Baja California Sur,187,Disponible
+2025-03-20,10:03:13,Michoacán,0,Disponible
+2025-03-20,10:03:14,Durango,0,Disponible
+2025-03-20,10:03:17,Sinaloa,446,Disponible
+2025-03-20,10:03:19,Tabasco,196,Disponible
+2025-03-20,10:03:21,Tamaulipas,0,Disponible
+2025-03-20,10:03:23,Baja California,0,Disponible
+2025-03-21,10:02:44,Guanajuato,22,Disponible
+2025-03-21,10:02:47,Quintana Roo,0,Disponible
+2025-03-21,10:02:47,Chihuahua,0,Disponible
+2025-03-21,10:02:49,Veracruz,6,Disponible
+2025-03-21,10:02:51,Guerrero,23,Disponible
+2025-03-21,10:02:53,Yucatán,5,Disponible
+2025-03-21,10:02:54,Puebla,0,Disponible
+2025-03-21,10:02:56,Jalisco,3535,Disponible
+2025-03-21,10:02:58,México,8661,Disponible
+2025-03-21,10:02:59,Tlaxcala,29,Disponible
+2025-03-21,10:03:01,Baja California Sur,187,Disponible
+2025-03-21,10:03:06,Michoacán,0,Disponible
+2025-03-21,10:03:07,Durango,0,Disponible
+2025-03-21,10:03:10,Sinaloa,446,Disponible
+2025-03-21,10:03:13,Tabasco,196,Disponible
+2025-03-21,10:03:15,Tamaulipas,0,Disponible
+2025-03-21,10:03:16,Baja California,0,Disponible
+2025-03-24,10:02:55,Guanajuato,22,Disponible
+2025-03-24,10:02:58,Quintana Roo,0,Disponible
+2025-03-24,10:02:59,Chihuahua,0,Disponible
+2025-03-24,10:03:00,Veracruz,6,Disponible
+2025-03-24,10:03:02,Guerrero,23,Disponible
+2025-03-24,10:03:04,Yucatán,5,Disponible
+2025-03-24,10:03:06,Puebla,0,Disponible
+2025-03-24,10:03:08,Jalisco,3535,Disponible
+2025-03-24,10:03:10,México,8661,Disponible
+2025-03-24,10:03:12,Tlaxcala,29,Disponible
+2025-03-24,10:03:14,Baja California Sur,187,Disponible
+2025-03-24,10:03:16,Michoacán,0,Disponible
+2025-03-24,10:03:17,Durango,0,Disponible
+2025-03-24,10:03:20,Sinaloa,446,Disponible
+2025-03-24,10:03:22,Tabasco,196,Disponible
+2025-03-24,10:03:25,Tamaulipas,0,Disponible
+2025-03-24,10:03:27,Baja California,0,Disponible
+2025-03-25,10:03:14,Guanajuato,22,Disponible
+2025-03-25,10:03:16,Quintana Roo,0,Disponible
+2025-03-25,10:03:17,Chihuahua,0,Disponible
+2025-03-25,10:06:18,Veracruz,0,No disponible/Request failed with status code 504
+2025-03-25,10:06:20,Guerrero,23,Disponible
+2025-03-25,10:06:22,Yucatán,5,Disponible
+2025-03-25,10:06:23,Puebla,0,Disponible
+2025-03-25,10:06:25,Jalisco,3535,Disponible
+2025-03-25,10:06:27,México,8661,Disponible
+2025-03-25,10:06:29,Tlaxcala,29,Disponible
+2025-03-25,10:06:31,Baja California Sur,187,Disponible
+2025-03-25,10:06:32,Michoacán,0,Disponible
+2025-03-25,10:06:34,Durango,0,Disponible
+2025-03-25,10:06:37,Sinaloa,452,Disponible
+2025-03-25,10:06:39,Tabasco,196,Disponible
+2025-03-25,10:06:41,Tamaulipas,0,Disponible
+2025-03-25,10:06:42,Baja California,0,Disponible
+2025-03-26,10:03:04,Guanajuato,22,Disponible
+2025-03-26,10:03:06,Quintana Roo,0,Disponible
+2025-03-26,10:03:06,Chihuahua,0,Disponible
+2025-03-26,10:03:08,Veracruz,6,Disponible
+2025-03-26,10:03:09,Guerrero,23,Disponible
+2025-03-26,10:03:10,Yucatán,5,Disponible
+2025-03-26,10:03:11,Puebla,0,Disponible
+2025-03-26,10:03:13,Jalisco,3535,Disponible
+2025-03-26,10:03:14,México,8661,Disponible
+2025-03-26,10:03:16,Tlaxcala,29,Disponible
+2025-03-26,10:03:17,Baja California Sur,187,Disponible
+2025-03-26,10:03:18,Michoacán,0,Disponible
+2025-03-26,10:03:19,Durango,0,Disponible
+2025-03-26,10:03:22,Sinaloa,452,Disponible
+2025-03-26,10:03:23,Tabasco,196,Disponible
+2025-03-26,10:03:25,Tamaulipas,0,Disponible
+2025-03-26,10:03:26,Baja California,0,Disponible
+2025-03-27,10:03:13,Guanajuato,22,Disponible
+2025-03-27,10:03:15,Quintana Roo,0,Disponible
+2025-03-27,10:03:15,Chihuahua,0,Disponible
+2025-03-27,10:07:16,Veracruz,0,No disponible/Request failed with status code 504
+2025-03-27,10:07:17,Guerrero,23,Disponible
+2025-03-27,10:07:19,Yucatán,5,Disponible
+2025-03-27,10:07:20,Puebla,0,Disponible
+2025-03-27,10:07:21,Jalisco,3535,Disponible
+2025-03-27,10:07:23,México,8661,Disponible
+2025-03-27,10:07:24,Tlaxcala,29,Disponible
+2025-03-27,10:07:26,Baja California Sur,187,Disponible
+2025-03-27,10:07:27,Michoacán,0,Disponible
+2025-03-27,10:07:28,Durango,0,Disponible
+2025-03-27,10:07:31,Sinaloa,453,Disponible
+2025-03-27,10:07:33,Tabasco,196,Disponible
+2025-03-27,10:07:34,Tamaulipas,0,Disponible
+2025-03-27,10:07:35,Baja California,0,Disponible
+2025-03-28,10:49:06,Guanajuato,22,Disponible
+2025-03-28,10:49:08,Quintana Roo,0,Disponible
+2025-03-28,10:49:09,Chihuahua,0,Disponible
+2025-03-28,10:49:11,Veracruz,6,Disponible
+2025-03-28,10:49:13,Guerrero,23,Disponible
+2025-03-28,10:49:15,Yucatán,5,Disponible
+2025-03-28,10:49:17,Puebla,0,Disponible
+2025-03-28,10:49:19,Jalisco,3535,Disponible
+2025-03-28,10:49:21,México,8661,Disponible
+2025-03-28,10:49:23,Tlaxcala,29,Disponible
+2025-03-28,10:49:24,Baja California Sur,187,Disponible
+2025-03-28,10:49:27,Michoacán,0,Disponible
+2025-03-28,10:49:28,Durango,0,Disponible
+2025-03-28,10:49:31,Sinaloa,457,Disponible
+2025-03-28,10:49:33,Tabasco,196,Disponible
+2025-03-28,10:49:36,Tamaulipas,0,Disponible
+2025-03-28,10:49:37,Baja California,0,Disponible
+2025-03-31,10:03:11,Guanajuato,22,Disponible
+2025-03-31,10:03:13,Quintana Roo,0,Disponible
+2025-03-31,10:03:14,Chihuahua,0,Disponible
+2025-03-31,10:07:14,Veracruz,0,No disponible/Request failed with status code 504
+2025-03-31,10:07:16,Guerrero,23,Disponible
+2025-03-31,10:07:17,Yucatán,5,Disponible
+2025-03-31,10:07:19,Puebla,0,Disponible
+2025-03-31,10:07:20,Jalisco,3535,Disponible
+2025-03-31,10:07:22,México,8661,Disponible
+2025-03-31,10:07:24,Tlaxcala,29,Disponible
+2025-03-31,10:07:25,Baja California Sur,187,Disponible
+2025-03-31,10:07:27,Michoacán,0,Disponible
+2025-03-31,10:07:28,Durango,0,Disponible
+2025-03-31,10:07:31,Sinaloa,457,Disponible
+2025-03-31,10:07:33,Tabasco,196,Disponible
+2025-03-31,10:07:35,Tamaulipas,0,Disponible
+2025-03-31,10:07:37,Baja California,0,Disponible
+2025-04-01,10:28:57,Guanajuato,22,Disponible
+2025-04-01,10:28:59,Quintana Roo,0,Disponible
+2025-04-01,10:29:00,Chihuahua,0,Disponible
+2025-04-01,10:33:01,Veracruz,0,No disponible/Request failed with status code 504
+2025-04-01,10:33:03,Guerrero,23,Disponible
+2025-04-01,10:33:06,Yucatán,5,Disponible
+2025-04-01,10:37:07,Puebla,0,No disponible/Request failed with status code 504
+2025-04-01,10:37:09,Jalisco,3535,Disponible
+2025-04-01,10:37:11,México,8661,Disponible
+2025-04-01,10:37:13,Tlaxcala,29,Disponible
+2025-04-01,10:37:15,Baja California Sur,187,Disponible
+2025-04-01,10:37:16,Michoacán,0,Disponible
+2025-04-01,10:37:18,Durango,0,Disponible
+2025-04-01,10:37:21,Sinaloa,457,Disponible
+2025-04-01,10:39:23,Tabasco,196,Disponible
+2025-04-01,10:41:25,Tamaulipas,0,Disponible
+2025-04-01,10:41:27,Baja California,0,Disponible
+2025-04-02,10:03:25,Guanajuato,22,Disponible
+2025-04-02,10:03:28,Quintana Roo,0,Disponible
+2025-04-02,10:03:29,Chihuahua,0,Disponible
+2025-04-02,10:03:31,Veracruz,6,Disponible
+2025-04-02,10:03:33,Guerrero,23,Disponible
+2025-04-02,10:03:35,Yucatán,5,Disponible
+2025-04-02,10:03:36,Puebla,0,Disponible
+2025-04-02,10:03:39,Jalisco,3535,Disponible
+2025-04-02,10:03:41,México,8661,Disponible
+2025-04-02,10:03:42,Tlaxcala,29,Disponible
+2025-04-02,10:03:44,Baja California Sur,187,Disponible
+2025-04-02,10:03:46,Michoacán,0,Disponible
+2025-04-02,10:03:48,Durango,0,Disponible
+2025-04-02,10:03:51,Sinaloa,462,Disponible
+2025-04-02,10:03:52,Tabasco,196,Disponible
+2025-04-02,10:03:54,Tamaulipas,0,Disponible
+2025-04-02,10:03:56,Baja California,0,Disponible
+2025-04-03,10:03:18,Guanajuato,22,Disponible
+2025-04-03,10:03:20,Quintana Roo,0,Disponible
+2025-04-03,10:03:20,Chihuahua,0,Disponible
+2025-04-03,10:03:21,Veracruz,6,Disponible
+2025-04-03,10:03:23,Guerrero,23,Disponible
+2025-04-03,10:03:24,Yucatán,5,Disponible
+2025-04-03,10:03:26,Puebla,0,Disponible
+2025-04-03,10:03:27,Jalisco,3535,Disponible
+2025-04-03,10:03:28,México,0,No disponible/Request failed with status code 400
+2025-04-03,10:03:29,Tlaxcala,29,Disponible
+2025-04-03,10:03:31,Baja California Sur,187,Disponible
+2025-04-03,10:03:32,Michoacán,0,Disponible
+2025-04-03,10:03:33,Durango,0,Disponible
+2025-04-03,10:03:36,Sinaloa,464,Disponible
+2025-04-03,10:03:38,Tabasco,196,Disponible
+2025-04-03,10:03:39,Tamaulipas,0,Disponible
+2025-04-03,10:03:41,Baja California,0,Disponible
+2025-04-03,10:03:43,SESEA_CAMPECHE,0,Disponible
+2025-04-04,10:03:34,Guanajuato,22,Disponible
+2025-04-04,10:03:37,Quintana Roo,0,Disponible
+2025-04-04,10:03:39,Chihuahua,0,Disponible
+2025-04-04,10:03:41,Veracruz,6,Disponible
+2025-04-04,10:03:44,Guerrero,23,Disponible
+2025-04-04,10:03:46,Yucatán,5,Disponible
+2025-04-04,10:03:49,Puebla,0,Disponible
+2025-04-04,10:03:52,Jalisco,3535,Disponible
+2025-04-04,10:03:54,México,0,No disponible/Request failed with status code 400
+2025-04-04,10:03:56,Tlaxcala,29,Disponible
+2025-04-04,10:03:59,Baja California Sur,187,Disponible
+2025-04-04,10:04:01,Michoacán,0,Disponible
+2025-04-04,10:04:03,Durango,0,Disponible
+2025-04-04,10:04:07,Sinaloa,465,Disponible
+2025-04-04,10:04:10,Tabasco,196,Disponible
+2025-04-04,10:04:13,Tamaulipas,0,Disponible
+2025-04-04,10:04:15,Baja California,0,Disponible
+2025-04-04,10:04:18,SESEA_CAMPECHE,0,Disponible
+2025-04-07,10:12:55,Guanajuato,22,Disponible
+2025-04-07,10:12:58,Quintana Roo,0,Disponible
+2025-04-07,10:12:59,Chihuahua,0,Disponible
+2025-04-07,10:13:00,Veracruz,6,Disponible
+2025-04-07,10:13:03,Guerrero,23,Disponible
+2025-04-07,10:13:05,Yucatán,5,Disponible
+2025-04-07,10:13:06,Puebla,0,Disponible
+2025-04-07,10:13:08,Jalisco,3535,Disponible
+2025-04-07,10:13:10,México,8661,Disponible
+2025-04-07,10:13:12,Tlaxcala,29,Disponible
+2025-04-07,10:13:14,Baja California Sur,187,Disponible
+2025-04-07,10:17:15,Michoacán,0,No disponible/Request failed with status code 504
+2025-04-07,10:17:17,Durango,0,Disponible
+2025-04-07,10:17:20,Sinaloa,476,Disponible
+2025-04-07,10:17:22,Tabasco,196,Disponible
+2025-04-07,10:17:25,Tamaulipas,0,Disponible
+2025-04-07,10:17:26,Baja California,0,Disponible
+2025-04-07,10:17:28,SESEA_CAMPECHE,0,Disponible
+2025-04-08,10:02:53,Guanajuato,22,Disponible
+2025-04-08,10:02:55,Quintana Roo,0,Disponible
+2025-04-08,10:02:56,Chihuahua,0,Disponible
+2025-04-08,10:02:58,Veracruz,6,Disponible
+2025-04-08,10:03:00,Guerrero,23,Disponible
+2025-04-08,10:03:03,Yucatán,5,Disponible
+2025-04-08,10:03:04,Puebla,0,Disponible
+2025-04-08,10:03:07,Jalisco,3535,Disponible
+2025-04-08,10:03:09,México,8661,Disponible
+2025-04-08,10:03:11,Tlaxcala,29,Disponible
+2025-04-08,10:03:12,Baja California Sur,187,Disponible
+2025-04-08,10:04:39,Michoacán,0,No disponible/Request failed with status code 400
+2025-04-08,10:04:40,Durango,0,Disponible
+2025-04-08,10:04:43,Sinaloa,501,Disponible
+2025-04-08,10:04:45,Tabasco,196,Disponible
+2025-04-08,10:04:46,Tamaulipas,0,Disponible
+2025-04-08,10:04:48,Baja California,0,Disponible
+2025-04-08,10:04:49,SESEA_CAMPECHE,0,Disponible
+2025-04-09,10:03:24,Guanajuato,22,Disponible
+2025-04-09,10:03:26,Quintana Roo,0,Disponible
+2025-04-09,10:03:27,Chihuahua,0,Disponible
+2025-04-09,10:03:28,Veracruz,6,Disponible
+2025-04-09,10:03:29,Guerrero,23,Disponible
+2025-04-09,10:03:31,Yucatán,5,Disponible
+2025-04-09,10:03:32,Puebla,0,Disponible
+2025-04-09,10:03:34,Jalisco,3535,Disponible
+2025-04-09,10:03:36,México,8661,Disponible
+2025-04-09,10:03:37,Tlaxcala,29,Disponible
+2025-04-09,10:03:38,Baja California Sur,187,Disponible
+2025-04-09,10:05:04,Michoacán,0,No disponible/Request failed with status code 400
+2025-04-09,10:05:05,Durango,0,Disponible
+2025-04-09,10:05:08,Sinaloa,501,Disponible
+2025-04-09,10:05:09,Tabasco,196,Disponible
+2025-04-09,10:05:11,Tamaulipas,0,Disponible
+2025-04-09,10:05:13,Baja California,0,Disponible
+2025-04-09,10:05:15,SESEA_CAMPECHE,0,Disponible
+2025-04-10,10:02:52,Guanajuato,22,Disponible
+2025-04-10,10:02:54,Quintana Roo,0,Disponible
+2025-04-10,10:02:55,Chihuahua,0,Disponible
+2025-04-10,10:02:57,Veracruz,6,Disponible
+2025-04-10,10:02:59,Guerrero,23,Disponible
+2025-04-10,10:03:01,Yucatán,5,Disponible
+2025-04-10,10:03:03,Puebla,0,Disponible
+2025-04-10,10:03:05,Jalisco,3535,Disponible
+2025-04-10,10:03:07,México,8661,Disponible
+2025-04-10,10:03:09,Tlaxcala,29,Disponible
+2025-04-10,10:03:11,Baja California Sur,187,Disponible
+2025-04-10,10:03:18,Michoacán,0,Disponible
+2025-04-10,10:03:20,Durango,0,Disponible
+2025-04-10,10:03:23,Sinaloa,501,Disponible
+2025-04-10,10:03:25,Tabasco,196,Disponible
+2025-04-10,10:03:27,Tamaulipas,0,Disponible
+2025-04-10,10:03:29,Baja California,0,Disponible
+2025-04-10,10:03:31,SESEA_CAMPECHE,0,Disponible
+2025-04-11,10:03:01,Guanajuato,22,Disponible
+2025-04-11,10:03:03,Quintana Roo,0,Disponible
+2025-04-11,10:03:04,Chihuahua,0,Disponible
+2025-04-11,10:03:05,Veracruz,6,Disponible
+2025-04-11,10:03:07,Guerrero,23,Disponible
+2025-04-11,10:03:08,Yucatán,5,Disponible
+2025-04-11,10:03:09,Puebla,0,Disponible
+2025-04-11,10:03:11,Jalisco,3535,Disponible
+2025-04-11,10:03:13,México,8661,Disponible
+2025-04-11,10:03:14,Tlaxcala,29,Disponible
+2025-04-11,10:03:15,Baja California Sur,187,Disponible
+2025-04-11,10:03:17,Michoacán,0,Disponible
+2025-04-11,10:03:18,Durango,0,Disponible
+2025-04-11,10:03:21,Sinaloa,501,Disponible
+2025-04-11,10:03:23,Tabasco,196,Disponible
+2025-04-11,10:03:25,Tamaulipas,0,Disponible
+2025-04-11,10:03:26,Baja California,0,Disponible
+2025-04-11,10:03:28,SESEA_CAMPECHE,0,Disponible
+2025-04-14,10:09:38,Guanajuato,22,Disponible
+2025-04-14,10:09:41,Quintana Roo,0,Disponible
+2025-04-14,10:09:41,Chihuahua,0,Disponible
+2025-04-14,10:09:43,Veracruz,6,Disponible
+2025-04-14,10:09:45,Guerrero,23,Disponible
+2025-04-14,10:09:47,Yucatán,5,Disponible
+2025-04-14,10:09:49,Puebla,0,Disponible
+2025-04-14,10:09:52,Jalisco,3535,Disponible
+2025-04-14,10:09:54,México,8661,Disponible
+2025-04-14,10:09:56,Tlaxcala,29,Disponible
+2025-04-14,10:09:57,Baja California Sur,187,Disponible
+2025-04-14,10:09:59,Michoacán,0,Disponible
+2025-04-14,10:10:01,Durango,0,Disponible
+2025-04-14,10:10:04,Sinaloa,534,Disponible
+2025-04-14,10:10:06,Tabasco,196,Disponible
+2025-04-14,10:10:08,Tamaulipas,0,Disponible
+2025-04-14,10:10:10,Baja California,0,Disponible
+2025-04-14,10:10:12,SESEA_CAMPECHE,0,Disponible
+2025-04-15,10:02:53,Guanajuato,22,Disponible
+2025-04-15,10:02:56,Quintana Roo,0,Disponible
+2025-04-15,10:03:29,Chihuahua,0,Disponible
+2025-04-15,10:03:32,Veracruz,6,Disponible
+2025-04-15,10:03:34,Guerrero,23,Disponible
+2025-04-15,10:03:37,Yucatán,5,Disponible
+2025-04-15,10:03:39,Puebla,0,Disponible
+2025-04-15,10:03:42,Jalisco,3535,Disponible
+2025-04-15,10:03:45,México,8661,Disponible
+2025-04-15,10:03:47,Tlaxcala,29,Disponible
+2025-04-15,10:03:49,Baja California Sur,187,Disponible
+2025-04-15,10:03:52,Michoacán,0,Disponible
+2025-04-15,10:03:54,Durango,0,Disponible
+2025-04-15,10:03:58,Sinaloa,534,Disponible
+2025-04-15,10:04:01,Tabasco,196,Disponible
+2025-04-15,10:04:04,Tamaulipas,0,Disponible
+2025-04-15,10:04:06,Baja California,0,Disponible
+2025-04-15,10:04:08,SESEA_CAMPECHE,0,Disponible
+2025-04-21,10:03:03,Guanajuato,22,Disponible
+2025-04-21,10:03:05,Quintana Roo,0,Disponible
+2025-04-21,10:03:06,Chihuahua,0,Disponible
+2025-04-21,10:03:08,Veracruz,6,Disponible
+2025-04-21,10:03:10,Guerrero,23,Disponible
+2025-04-21,10:03:12,SESEA_Yucatan,5,Disponible
+2025-04-21,10:03:13,Puebla,0,Disponible
+2025-04-21,10:03:17,Jalisco,3535,Disponible
+2025-04-21,10:03:19,SESEA_EdoMex,8661,Disponible
+2025-04-21,10:03:21,Tlaxcala,29,Disponible
+2025-04-21,10:03:23,Baja California Sur,187,Disponible
+2025-04-21,10:03:27,Michoacán,0,Disponible
+2025-04-21,10:03:28,Durango,0,Disponible
+2025-04-21,10:03:33,Sinaloa,534,Disponible
+2025-04-21,10:03:35,Tabasco,196,Disponible
+2025-04-21,10:03:37,Tamaulipas,0,Disponible
+2025-04-21,10:03:39,Baja California,0,Disponible
+2025-04-21,10:03:41,Campeche,0,Disponible
+2025-04-21,10:03:42,SESEA_Zacatecas,0,Disponible
+2025-04-22,10:03:24,Guanajuato,22,Disponible
+2025-04-22,10:03:28,Quintana Roo,0,Disponible
+2025-04-22,10:03:30,Chihuahua,0,Disponible
+2025-04-22,10:03:32,Veracruz,6,Disponible
+2025-04-22,10:03:35,Guerrero,23,Disponible
+2025-04-22,10:03:37,SESEA_Yucatan,5,Disponible
+2025-04-22,10:03:39,Puebla,0,Disponible
+2025-04-22,10:03:42,Jalisco,3535,Disponible
+2025-04-22,10:03:45,SESEA_EdoMex,8661,Disponible
+2025-04-22,10:03:47,Tlaxcala,29,Disponible
+2025-04-22,10:03:50,Baja California Sur,187,Disponible
+2025-04-22,10:03:52,Michoacán,0,Disponible
+2025-04-22,10:03:55,Durango,0,Disponible
+2025-04-22,10:03:59,Sinaloa,535,Disponible
+2025-04-22,10:04:01,Tabasco,196,Disponible
+2025-04-22,10:04:04,Tamaulipas,0,Disponible
+2025-04-22,10:04:07,Baja California,0,Disponible
+2025-04-22,10:04:10,Campeche,0,Disponible
+2025-04-22,10:04:12,SESEA_Zacatecas,0,Disponible
+2025-04-23,10:13:05,Guanajuato,22,Disponible
+2025-04-23,10:13:13,Quintana Roo,0,Disponible
+2025-04-23,10:13:14,Chihuahua,0,Disponible
+2025-04-23,10:13:15,Veracruz,6,Disponible
+2025-04-23,10:13:17,Guerrero,23,Disponible
+2025-04-23,10:13:18,SESEA_Yucatan,5,Disponible
+2025-04-23,10:13:19,Puebla,0,Disponible
+2025-04-23,10:13:21,Jalisco,3535,Disponible
+2025-04-23,10:13:23,SESEA_EdoMex,8661,Disponible
+2025-04-23,10:13:24,Tlaxcala,29,Disponible
+2025-04-23,10:13:25,Baja California Sur,187,Disponible
+2025-04-23,10:13:27,Michoacán,0,Disponible
+2025-04-23,10:13:28,Durango,0,Disponible
+2025-04-23,10:13:31,Sinaloa,535,Disponible
+2025-04-23,10:13:32,Tabasco,196,Disponible
+2025-04-23,10:13:34,Tamaulipas,0,Disponible
+2025-04-23,10:13:35,Baja California,0,Disponible
+2025-04-23,10:13:48,Campeche,0,No disponible/Request failed with status code 400
+2025-04-23,10:13:49,SESEA_Zacatecas,0,Disponible
+2025-04-24,10:03:09,Guanajuato,22,Disponible
+2025-04-24,10:03:12,Quintana Roo,0,Disponible
+2025-04-24,10:03:13,Chihuahua,0,Disponible
+2025-04-24,10:03:14,Veracruz,6,Disponible
+2025-04-24,10:03:16,Guerrero,23,Disponible
+2025-04-24,10:03:18,Yucatán,5,Disponible
+2025-04-24,10:03:20,Puebla,0,Disponible
+2025-04-24,10:03:22,Jalisco,3535,Disponible
+2025-04-24,10:03:23,México,8661,Disponible
+2025-04-24,10:03:25,Tlaxcala,29,Disponible
+2025-04-24,10:03:27,Baja California Sur,187,Disponible
+2025-04-24,10:03:30,Michoacán,0,Disponible
+2025-04-24,10:03:31,Durango,0,Disponible
+2025-04-24,10:03:34,Sinaloa,535,Disponible
+2025-04-24,10:03:36,Tabasco,196,Disponible
+2025-04-24,10:03:38,Tamaulipas,0,Disponible
+2025-04-24,10:03:40,Baja California,0,Disponible
+2025-04-24,10:03:52,Campeche,0,No disponible/Request failed with status code 400
+2025-04-24,10:03:54,Zacatecas,0,Disponible
+2025-04-25,10:11:32,Guanajuato,22,Disponible
+2025-04-25,10:11:35,Quintana Roo,0,Disponible
+2025-04-25,10:11:36,Chihuahua,0,Disponible
+2025-04-25,10:11:37,Veracruz,6,Disponible
+2025-04-25,10:11:39,Guerrero,23,Disponible
+2025-04-25,10:11:41,Yucatán,5,Disponible
+2025-04-25,10:11:42,Puebla,0,Disponible
+2025-04-25,10:11:45,Jalisco,3535,Disponible
+2025-04-25,10:11:47,México,8661,Disponible
+2025-04-25,10:11:48,Tlaxcala,29,Disponible
+2025-04-25,10:11:50,Baja California Sur,187,Disponible
+2025-04-25,10:12:01,Michoacán,0,Disponible
+2025-04-25,10:12:03,Durango,0,Disponible
+2025-04-25,10:12:06,Sinaloa,538,Disponible
+2025-04-25,10:12:08,Tabasco,196,Disponible
+2025-04-25,10:12:10,Tamaulipas,0,Disponible
+2025-04-25,10:12:12,Baja California,0,Disponible
+2025-04-25,10:12:24,Campeche,0,No disponible/Request failed with status code 400
+2025-04-25,10:12:26,Zacatecas,0,Disponible
+2025-04-28,10:11:59,Guanajuato,22,Disponible
+2025-04-28,10:12:01,Quintana Roo,0,Disponible
+2025-04-28,10:12:03,Chihuahua,0,Disponible
+2025-04-28,10:12:05,Veracruz,6,Disponible
+2025-04-28,10:12:06,Guerrero,23,Disponible
+2025-04-28,10:12:09,Yucatán,5,Disponible
+2025-04-28,10:12:10,Puebla,0,Disponible
+2025-04-28,10:12:12,Jalisco,3535,Disponible
+2025-04-28,10:12:14,México,8661,Disponible
+2025-04-28,10:12:16,Tlaxcala,29,Disponible
+2025-04-28,10:12:18,Baja California Sur,187,Disponible
+2025-04-28,10:12:20,Michoacán,0,Disponible
+2025-04-28,10:12:21,Durango,0,Disponible
+2025-04-28,10:12:25,Sinaloa,538,Disponible
+2025-04-28,10:12:27,Tabasco,196,Disponible
+2025-04-28,10:12:29,Tamaulipas,0,Disponible
+2025-04-28,10:12:31,Baja California,0,Disponible
+2025-04-28,10:12:44,Campeche,0,No disponible/Request failed with status code 400
+2025-04-28,10:12:45,Zacatecas,0,Disponible
+2025-04-29,10:12:33,Guanajuato,22,Disponible
+2025-04-29,10:12:36,Quintana Roo,0,Disponible
+2025-04-29,10:12:38,Chihuahua,0,Disponible
+2025-04-29,10:12:41,Veracruz,6,Disponible
+2025-04-29,10:12:44,Guerrero,23,Disponible
+2025-04-29,10:12:47,Yucatán,5,Disponible
+2025-04-29,10:12:50,Puebla,0,Disponible
+2025-04-29,10:12:53,Jalisco,3535,Disponible
+2025-04-29,10:12:55,México,8661,Disponible
+2025-04-29,10:12:59,Tlaxcala,29,Disponible
+2025-04-29,10:13:01,Baja California Sur,187,Disponible
+2025-04-29,10:13:04,Michoacán,0,Disponible
+2025-04-29,10:13:06,Durango,0,Disponible
+2025-04-29,10:13:10,Sinaloa,538,Disponible
+2025-04-29,10:13:13,Tabasco,196,Disponible
+2025-04-29,10:13:16,Tamaulipas,0,Disponible
+2025-04-29,10:13:18,Baja California,0,Disponible
+2025-04-29,10:13:32,Campeche,0,No disponible/Request failed with status code 400
+2025-04-29,10:13:34,Zacatecas,0,Disponible
+2025-04-30,10:12:10,Guanajuato,22,Disponible
+2025-04-30,10:12:12,Quintana Roo,0,Disponible
+2025-04-30,10:12:12,Chihuahua,0,Disponible
+2025-04-30,10:12:14,Veracruz,6,Disponible
+2025-04-30,10:12:15,Guerrero,23,Disponible
+2025-04-30,10:12:18,Yucatán,5,Disponible
+2025-04-30,10:12:19,Puebla,0,Disponible
+2025-04-30,10:12:21,Jalisco,3535,Disponible
+2025-04-30,10:12:23,México,8661,Disponible
+2025-04-30,10:12:24,Tlaxcala,29,Disponible
+2025-04-30,10:12:25,Baja California Sur,187,Disponible
+2025-04-30,10:12:27,Michoacán,0,Disponible
+2025-04-30,10:12:28,Durango,0,Disponible
+2025-04-30,10:12:31,Sinaloa,538,Disponible
+2025-04-30,10:12:32,Tabasco,196,Disponible
+2025-04-30,10:12:34,Tamaulipas,0,Disponible
+2025-04-30,10:12:40,Baja California,0,No disponible/Request failed with status code 400
+2025-04-30,10:12:52,Campeche,0,No disponible/Request failed with status code 400
+2025-04-30,10:12:53,Zacatecas,0,Disponible
+2025-05-05,10:03:33,Guanajuato,22,Disponible
+2025-05-05,10:03:37,Quintana Roo,0,Disponible
+2025-05-05,10:03:39,Chihuahua,0,Disponible
+2025-05-05,10:03:41,Veracruz,6,Disponible
+2025-05-05,10:03:44,Guerrero,23,Disponible
+2025-05-05,10:03:47,Yucatán,5,Disponible
+2025-05-05,10:03:49,Puebla,0,Disponible
+2025-05-05,10:03:51,Jalisco,3535,Disponible
+2025-05-05,10:03:55,México,8661,Disponible
+2025-05-05,10:03:58,Tlaxcala,29,Disponible
+2025-05-05,10:04:01,Baja California Sur,187,Disponible
+2025-05-05,10:04:04,Michoacán,0,Disponible
+2025-05-05,10:04:07,Durango,0,Disponible
+2025-05-05,10:04:11,Sinaloa,538,Disponible
+2025-05-05,10:04:14,Tabasco,196,Disponible
+2025-05-05,10:04:17,Tamaulipas,0,Disponible
+2025-05-05,10:04:19,Baja California,0,Disponible
+2025-05-05,10:04:32,Campeche,0,No disponible/Request failed with status code 400
+2025-05-05,10:04:35,Zacatecas,0,Disponible
+2025-05-06,10:37:43,Guanajuato,22,Disponible
+2025-05-06,10:37:46,Quintana Roo,0,Disponible
+2025-05-06,10:37:48,Chihuahua,0,Disponible
+2025-05-06,10:37:51,Veracruz,6,Disponible
+2025-05-06,10:37:53,Guerrero,23,Disponible
+2025-05-06,10:40:54,Yucatán,0,No disponible/socket hang up
+2025-05-06,10:40:58,Puebla,0,Disponible
+2025-05-06,10:41:01,Jalisco,3535,Disponible
+2025-05-06,10:41:04,México,8661,Disponible
+2025-05-06,10:41:07,Tlaxcala,29,Disponible
+2025-05-06,10:41:09,Baja California Sur,187,Disponible
+2025-05-06,10:41:12,Michoacán,0,Disponible
+2025-05-06,10:41:15,Durango,0,Disponible
+2025-05-06,10:41:18,Sinaloa,538,Disponible
+2025-05-06,10:41:21,Tabasco,196,Disponible
+2025-05-06,10:41:25,Tamaulipas,0,Disponible
+2025-05-06,10:41:27,Baja California,0,Disponible
+2025-05-06,10:41:40,Campeche,0,No disponible/Request failed with status code 400
+2025-05-06,10:41:43,Zacatecas,0,Disponible
+2025-05-07,10:03:42,Guanajuato,22,Disponible
+2025-05-07,10:03:46,Quintana Roo,0,Disponible
+2025-05-07,10:03:48,Chihuahua,0,Disponible
+2025-05-07,10:03:51,Veracruz,6,Disponible
+2025-05-07,10:03:53,Guerrero,23,Disponible
+2025-05-07,10:07:56,Yucatán,0,No disponible/Request failed with status code 504
+2025-05-07,10:07:59,Puebla,0,Disponible
+2025-05-07,10:08:03,Jalisco,3535,Disponible
+2025-05-07,10:08:06,México,8661,Disponible
+2025-05-07,10:08:09,Tlaxcala,29,Disponible
+2025-05-07,10:08:14,Baja California Sur,187,Disponible
+2025-05-07,10:08:17,Michoacán,0,Disponible
+2025-05-07,10:08:20,Durango,0,Disponible
+2025-05-07,10:08:25,Sinaloa,538,Disponible
+2025-05-07,10:08:28,Tabasco,196,Disponible
+2025-05-07,10:08:32,Tamaulipas,0,Disponible
+2025-05-07,10:08:34,Baja California,0,Disponible
+2025-05-07,10:08:47,Campeche,0,No disponible/Request failed with status code 400
+2025-05-07,10:08:50,Zacatecas,0,Disponible
+2025-05-08,10:09:24,Guanajuato,22,Disponible
+2025-05-08,10:09:27,Quintana Roo,0,Disponible
+2025-05-08,10:09:28,Chihuahua,0,Disponible
+2025-05-08,10:09:30,Veracruz,6,Disponible
+2025-05-08,10:09:34,Guerrero,23,Disponible
+2025-05-08,10:09:36,Yucatán,5,Disponible
+2025-05-08,10:09:38,Puebla,0,Disponible
+2025-05-08,10:09:42,Jalisco,3535,Disponible
+2025-05-08,10:09:44,México,8661,Disponible
+2025-05-08,10:09:46,Tlaxcala,29,Disponible
+2025-05-08,10:13:47,Baja California Sur,0,No disponible/Request failed with status code 504
+2025-05-08,10:13:49,Michoacán,0,Disponible
+2025-05-08,10:13:51,Durango,0,Disponible
+2025-05-08,10:13:54,Sinaloa,538,Disponible
+2025-05-08,10:13:56,Tabasco,196,Disponible
+2025-05-08,10:13:59,Tamaulipas,0,Disponible
+2025-05-08,10:14:01,Baja California,0,Disponible
+2025-05-08,10:14:14,Campeche,0,No disponible/Request failed with status code 400
+2025-05-08,10:14:15,Zacatecas,0,Disponible
+2025-05-08,10:14:17,SESEA_NuevoLeon,0,Disponible
+2025-05-09,10:22:18,Guanajuato,22,Disponible
+2025-05-09,10:22:20,Quintana Roo,0,Disponible
+2025-05-09,10:22:21,Chihuahua,0,Disponible
+2025-05-09,10:22:22,Veracruz,6,Disponible
+2025-05-09,10:22:23,Guerrero,23,Disponible
+2025-05-09,10:22:25,Yucatán,5,Disponible
+2025-05-09,10:26:25,Puebla,0,No disponible/Request failed with status code 504
+2025-05-09,10:26:26,Jalisco,3535,Disponible
+2025-05-09,10:26:28,México,8661,Disponible
+2025-05-09,10:26:29,Tlaxcala,29,Disponible
+2025-05-09,10:26:30,Baja California Sur,187,Disponible
+2025-05-09,10:26:32,Michoacán,0,Disponible
+2025-05-09,10:28:33,Durango,0,No disponible/Request failed with status code 504
+2025-05-09,10:28:36,Sinaloa,538,Disponible
+2025-05-09,10:28:38,Tabasco,196,Disponible
+2025-05-09,10:29:39,Tamaulipas,0,No disponible/Request failed with status code 504
+2025-05-09,10:30:40,Baja California,0,No disponible/Request failed with status code 504
+2025-05-09,10:30:42,Campeche,0,Disponible
+2025-05-09,10:30:43,Zacatecas,0,Disponible
+2025-05-09,10:30:44,SESEA_NuevoLeon,0,Disponible
+2025-05-12,10:03:32,Guanajuato,22,Disponible
+2025-05-12,10:03:34,Quintana Roo,0,Disponible
+2025-05-12,10:03:36,Chihuahua,0,Disponible
+2025-05-12,10:03:38,Veracruz,0,No disponible/Request failed with status code 400
+2025-05-12,10:03:40,Guerrero,23,Disponible
+2025-05-12,10:03:42,Yucatán,5,Disponible
+2025-05-12,10:03:43,Puebla,0,Disponible
+2025-05-12,10:03:45,Jalisco,3535,Disponible
+2025-05-12,10:03:47,México,8661,Disponible
+2025-05-12,10:03:49,Tlaxcala,29,Disponible
+2025-05-12,10:03:50,Baja California Sur,0,No disponible/Request failed with status code 400
+2025-05-12,10:03:52,Michoacán,0,Disponible
+2025-05-12,10:03:53,Durango,0,Disponible
+2025-05-12,10:03:56,Sinaloa,538,Disponible
+2025-05-12,10:03:58,Tabasco,196,Disponible
+2025-05-12,10:04:00,Tamaulipas,0,Disponible
+2025-05-12,10:04:02,Baja California,0,Disponible
+2025-05-12,10:04:04,Campeche,0,Disponible
+2025-05-12,10:04:05,Zacatecas,0,Disponible
+2025-05-12,10:04:07,SESEA_NuevoLeon,0,Disponible
+2025-05-13,10:03:34,Guanajuato,22,Disponible
+2025-05-13,10:03:36,Quintana Roo,0,Disponible
+2025-05-13,10:03:36,Chihuahua,0,Disponible
+2025-05-13,10:03:38,Veracruz,0,No disponible/Request failed with status code 400
+2025-05-13,10:03:39,Guerrero,23,Disponible
+2025-05-13,10:03:40,Yucatán,5,Disponible
+2025-05-13,10:03:42,Puebla,0,Disponible
+2025-05-13,10:03:43,Jalisco,3535,Disponible
+2025-05-13,10:03:45,México,8661,Disponible
+2025-05-13,10:03:46,Tlaxcala,29,Disponible
+2025-05-13,10:03:47,Baja California Sur,187,Disponible
+2025-05-13,10:03:49,Michoacán,0,Disponible
+2025-05-13,10:03:50,Durango,0,Disponible
+2025-05-13,10:03:52,Sinaloa,538,Disponible
+2025-05-13,10:03:54,Tabasco,196,Disponible
+2025-05-13,10:03:55,Tamaulipas,0,Disponible
+2025-05-13,10:03:57,Baja California,0,Disponible
+2025-05-13,10:03:59,Campeche,0,Disponible
+2025-05-13,10:04:00,Zacatecas,0,Disponible
+2025-05-13,10:04:02,SESEA_NuevoLeon,0,Disponible
+2025-05-14,10:03:26,Guanajuato,22,Disponible
+2025-05-14,10:03:28,Quintana Roo,0,Disponible
+2025-05-14,10:03:28,Chihuahua,0,Disponible
+2025-05-14,10:03:29,Veracruz,0,No disponible/Request failed with status code 400
+2025-05-14,10:03:31,Guerrero,23,Disponible
+2025-05-14,10:03:32,Yucatán,5,Disponible
+2025-05-14,10:03:33,Puebla,0,Disponible
+2025-05-14,10:03:35,Jalisco,3536,Disponible
+2025-05-14,10:03:36,México,8661,Disponible
+2025-05-14,10:03:37,Tlaxcala,29,Disponible
+2025-05-14,10:03:38,Baja California Sur,187,Disponible
+2025-05-14,10:03:40,Michoacán,0,Disponible
+2025-05-14,10:03:41,Durango,0,Disponible
+2025-05-14,10:03:43,Sinaloa,538,Disponible
+2025-05-14,10:03:45,Tabasco,196,Disponible
+2025-05-14,10:03:46,Tamaulipas,0,Disponible
+2025-05-14,10:03:47,Baja California,0,Disponible
+2025-05-14,10:03:49,Campeche,0,Disponible
+2025-05-14,10:03:50,Zacatecas,0,Disponible
+2025-05-14,10:03:51,SESEA_NuevoLeon,0,Disponible
+2025-05-15,10:03:24,Guanajuato,22,Disponible
+2025-05-15,10:03:25,Quintana Roo,0,Disponible
+2025-05-15,10:03:26,Chihuahua,0,Disponible
+2025-05-15,10:03:27,Veracruz,0,No disponible/Request failed with status code 400
+2025-05-15,10:03:28,Guerrero,23,Disponible
+2025-05-15,10:03:29,Yucatán,5,Disponible
+2025-05-15,10:03:30,Puebla,0,Disponible
+2025-05-15,10:03:32,Jalisco,3536,Disponible
+2025-05-15,10:03:34,México,8661,Disponible
+2025-05-15,10:03:35,Tlaxcala,29,Disponible
+2025-05-15,10:03:36,Baja California Sur,187,Disponible
+2025-05-15,10:03:37,Michoacán,0,Disponible
+2025-05-15,10:03:38,Durango,0,Disponible
+2025-05-15,10:03:41,Sinaloa,538,Disponible
+2025-05-15,10:03:42,Tabasco,196,Disponible
+2025-05-15,10:03:44,Tamaulipas,0,Disponible
+2025-05-15,10:03:45,Baja California,0,Disponible
+2025-05-15,10:03:46,Campeche,0,Disponible
+2025-05-15,10:03:47,Zacatecas,0,Disponible
+2025-05-15,10:03:48,SESEA_NuevoLeon,0,Disponible
+2025-05-16,10:03:13,Guanajuato,22,Disponible
+2025-05-16,10:03:15,Quintana Roo,0,Disponible
+2025-05-16,10:03:16,Chihuahua,0,Disponible
+2025-05-16,10:06:17,Veracruz,0,No disponible/Request failed with status code 504
+2025-05-16,10:06:19,Guerrero,23,Disponible
+2025-05-16,10:06:21,Yucatán,5,Disponible
+2025-05-16,10:06:23,Puebla,0,Disponible
+2025-05-16,10:06:25,Jalisco,3536,Disponible
+2025-05-16,10:06:28,México,106,Disponible
+2025-05-16,10:06:30,Tlaxcala,29,Disponible
+2025-05-16,10:06:31,Baja California Sur,187,Disponible
+2025-05-16,10:06:33,Michoacán,0,Disponible
+2025-05-16,10:06:35,Durango,0,Disponible
+2025-05-16,10:06:38,Sinaloa,538,Disponible
+2025-05-16,10:06:40,Tabasco,196,Disponible
+2025-05-16,10:06:43,Tamaulipas,0,Disponible
+2025-05-16,10:06:44,Baja California,0,Disponible
+2025-05-16,10:06:46,Campeche,0,Disponible
+2025-05-16,10:06:48,Zacatecas,0,Disponible
+2025-05-16,10:06:50,SESEA_NuevoLeon,0,Disponible
+2025-05-19,10:03:34,Guanajuato,22,Disponible
+2025-05-19,10:03:39,Quintana Roo,0,Disponible
+2025-05-19,10:03:42,Chihuahua,0,Disponible
+2025-05-19,10:03:45,Veracruz,6,Disponible
+2025-05-19,10:03:49,Guerrero,23,Disponible
+2025-05-19,10:03:52,Yucatán,5,Disponible
+2025-05-19,10:03:55,Puebla,0,Disponible
+2025-05-19,10:03:59,Jalisco,3536,Disponible
+2025-05-19,10:04:02,México,9517,Disponible
+2025-05-19,10:04:06,Tlaxcala,29,Disponible
+2025-05-19,10:04:09,Baja California Sur,187,Disponible
+2025-05-19,10:04:17,Michoacán,0,No disponible/Request failed with status code 400
+2025-05-19,10:04:20,Durango,0,Disponible
+2025-05-19,10:04:24,Sinaloa,538,Disponible
+2025-05-19,10:04:28,Tabasco,196,Disponible
+2025-05-19,10:04:31,Tamaulipas,0,Disponible
+2025-05-19,10:04:35,Baja California,0,Disponible
+2025-05-19,10:04:38,Campeche,0,Disponible
+2025-05-19,10:04:42,Zacatecas,0,Disponible
+2025-05-19,10:04:46,SESEA_NuevoLeon,0,Disponible
+2025-05-20,10:03:15,Guanajuato,22,Disponible
+2025-05-20,10:03:18,Quintana Roo,0,Disponible
+2025-05-20,10:03:20,Chihuahua,0,Disponible
+2025-05-20,10:03:22,Veracruz,6,Disponible
+2025-05-20,10:03:25,Guerrero,23,Disponible
+2025-05-20,10:03:28,Yucatán,5,Disponible
+2025-05-20,10:03:30,Puebla,0,Disponible
+2025-05-20,10:03:33,Jalisco,3535,Disponible
+2025-05-20,10:03:36,México,9517,Disponible
+2025-05-20,10:03:39,Tlaxcala,29,Disponible
+2025-05-20,10:03:41,Baja California Sur,187,Disponible
+2025-05-20,10:03:44,Michoacán,0,Disponible
+2025-05-20,10:03:47,Durango,0,Disponible
+2025-05-20,10:03:51,Sinaloa,538,Disponible
+2025-05-20,10:03:54,Tabasco,196,Disponible
+2025-05-20,10:03:57,Tamaulipas,0,Disponible
+2025-05-20,10:03:59,Baja California,0,Disponible
+2025-05-20,10:04:02,Campeche,0,Disponible
+2025-05-20,10:04:05,Zacatecas,0,Disponible
+2025-05-20,10:04:07,SESEA_NuevoLeon,0,Disponible
+2025-05-21,10:03:14,Guanajuato,22,Disponible
+2025-05-21,10:03:18,Quintana Roo,0,Disponible
+2025-05-21,10:03:19,Chihuahua,0,Disponible
+2025-05-21,10:03:21,Veracruz,6,Disponible
+2025-05-21,10:03:24,Guerrero,23,Disponible
+2025-05-21,10:03:26,Yucatán,5,Disponible
+2025-05-21,10:03:28,Puebla,0,Disponible
+2025-05-21,10:03:31,Jalisco,3535,Disponible
+2025-05-21,10:03:34,México,9517,Disponible
+2025-05-21,10:03:36,Tlaxcala,29,Disponible
+2025-05-21,10:03:39,Baja California Sur,187,Disponible
+2025-05-21,10:03:44,Michoacán,0,Disponible
+2025-05-21,10:03:46,Durango,0,Disponible
+2025-05-21,10:03:50,Sinaloa,538,Disponible
+2025-05-21,10:03:52,Tabasco,196,Disponible
+2025-05-21,10:03:55,Tamaulipas,0,Disponible
+2025-05-21,10:03:57,Baja California,0,Disponible
+2025-05-21,10:04:00,Campeche,0,Disponible
+2025-05-21,10:04:02,Zacatecas,0,Disponible
+2025-05-21,10:04:04,SESEA_NuevoLeon,0,Disponible
+2025-05-22,10:03:09,Guanajuato,22,Disponible
+2025-05-22,10:03:11,Quintana Roo,0,Disponible
+2025-05-22,10:03:12,Chihuahua,0,Disponible
+2025-05-22,10:03:13,Veracruz,6,Disponible
+2025-05-22,10:03:14,Guerrero,23,Disponible
+2025-05-22,10:03:16,Yucatán,5,Disponible
+2025-05-22,10:03:17,Puebla,0,Disponible
+2025-05-22,10:03:18,Jalisco,3535,Disponible
+2025-05-22,10:03:20,México,9517,Disponible
+2025-05-22,10:03:21,Tlaxcala,29,Disponible
+2025-05-22,10:03:22,Baja California Sur,187,Disponible
+2025-05-22,10:03:23,Michoacán,0,Disponible
+2025-05-22,10:03:24,Durango,0,Disponible
+2025-05-22,10:03:27,Sinaloa,538,Disponible
+2025-05-22,10:03:28,Tabasco,196,Disponible
+2025-05-22,10:03:30,Tamaulipas,0,Disponible
+2025-05-22,10:03:31,Baja California,0,Disponible
+2025-05-22,10:03:33,Campeche,0,Disponible
+2025-05-22,10:03:34,Zacatecas,0,Disponible
+2025-05-22,10:03:35,SESEA_NuevoLeon,0,Disponible
+2025-05-23,10:03:33,Guanajuato,22,Disponible
+2025-05-23,10:03:36,Quintana Roo,0,Disponible
+2025-05-23,10:03:38,Chihuahua,0,Disponible
+2025-05-23,10:03:41,Veracruz,6,Disponible
+2025-05-23,10:03:44,Guerrero,23,Disponible
+2025-05-23,10:03:47,Yucatán,5,Disponible
+2025-05-23,10:03:49,Puebla,0,Disponible
+2025-05-23,10:03:52,Jalisco,3535,Disponible
+2025-05-23,10:03:55,México,9517,Disponible
+2025-05-23,10:03:57,Tlaxcala,29,Disponible
+2025-05-23,10:04:00,Baja California Sur,187,Disponible
+2025-05-23,10:04:03,Michoacán,0,Disponible
+2025-05-23,10:04:06,Durango,0,Disponible
+2025-05-23,10:04:09,Sinaloa,538,Disponible
+2025-05-23,10:04:12,Tabasco,196,Disponible
+2025-05-23,10:04:16,Tamaulipas,0,Disponible
+2025-05-23,10:04:18,Baja California,0,Disponible
+2025-05-23,10:04:21,Campeche,0,Disponible
+2025-05-23,10:04:24,Zacatecas,0,Disponible
+2025-05-23,10:04:26,SESEA_NuevoLeon,0,Disponible
+2025-05-26,10:02:57,Guanajuato,22,Disponible
+2025-05-26,10:02:59,Quintana Roo,0,Disponible
+2025-05-26,10:03:00,Chihuahua,0,Disponible
+2025-05-26,10:03:02,Veracruz,6,Disponible
+2025-05-26,10:03:03,Guerrero,23,Disponible
+2025-05-26,10:03:05,Yucatán,5,Disponible
+2025-05-26,10:03:07,Puebla,0,Disponible
+2025-05-26,10:03:09,Jalisco,3535,Disponible
+2025-05-26,10:03:11,México,9517,Disponible
+2025-05-26,10:03:12,Tlaxcala,29,Disponible
+2025-05-26,10:03:14,Baja California Sur,187,Disponible
+2025-05-26,10:03:16,Michoacán,0,Disponible
+2025-05-26,10:03:17,Durango,0,Disponible
+2025-05-26,10:03:20,Sinaloa,538,Disponible
+2025-05-26,10:03:22,Tabasco,196,Disponible
+2025-05-26,10:03:24,Tamaulipas,0,Disponible
+2025-05-26,10:03:25,Baja California,0,Disponible
+2025-05-26,10:04:31,Campeche,0,No disponible/Request failed with status code 400
+2025-05-26,10:04:33,Zacatecas,0,Disponible
+2025-05-26,10:04:34,SESEA_NuevoLeon,0,Disponible
+2025-05-27,10:02:54,Guanajuato,22,Disponible
+2025-05-27,10:02:56,Quintana Roo,0,Disponible
+2025-05-27,10:02:57,Chihuahua,0,Disponible
+2025-05-27,10:02:59,Veracruz,0,No disponible/Request failed with status code 400
+2025-05-27,10:03:00,Guerrero,23,Disponible
+2025-05-27,10:03:02,Yucatán,5,Disponible
+2025-05-27,10:03:04,Puebla,0,Disponible
+2025-05-27,10:03:06,Jalisco,3535,Disponible
+2025-05-27,10:03:09,México,9517,Disponible
+2025-05-27,10:03:11,Tlaxcala,29,Disponible
+2025-05-27,10:03:12,Baja California Sur,187,Disponible
+2025-05-27,10:03:14,Michoacán,0,Disponible
+2025-05-27,10:03:15,Durango,0,No disponible/Request failed with status code 400
+2025-05-27,10:03:18,Sinaloa,538,Disponible
+2025-05-27,10:03:20,Tabasco,196,Disponible
+2025-05-27,10:03:22,Tamaulipas,0,Disponible
+2025-05-27,10:03:23,Baja California,0,Disponible
+2025-05-27,10:03:25,Campeche,0,Disponible
+2025-05-27,10:03:27,Zacatecas,0,Disponible
+2025-05-27,10:03:28,SESEA_NuevoLeon,0,Disponible
+2025-05-28,10:03:09,Guanajuato,22,Disponible
+2025-05-28,10:03:12,Quintana Roo,0,Disponible
+2025-05-28,10:03:14,Chihuahua,0,Disponible
+2025-05-28,10:03:16,Veracruz,6,Disponible
+2025-05-28,10:03:18,Guerrero,23,Disponible
+2025-05-28,10:03:21,Yucatán,5,Disponible
+2025-05-28,10:03:23,Puebla,0,Disponible
+2025-05-28,10:03:26,Jalisco,3535,Disponible
+2025-05-28,10:03:28,México,9517,Disponible
+2025-05-28,10:03:31,Tlaxcala,29,Disponible
+2025-05-28,10:03:33,Baja California Sur,187,Disponible
+2025-05-28,10:03:35,Michoacán,0,No disponible/Request failed with status code 400
+2025-05-28,10:03:37,Durango,0,No disponible/Request failed with status code 400
+2025-05-28,10:03:41,Sinaloa,538,Disponible
+2025-05-28,10:03:44,Tabasco,196,Disponible
+2025-05-28,10:03:46,Tamaulipas,0,Disponible
+2025-05-28,10:03:48,Baja California,0,Disponible
+2025-05-28,10:03:51,Campeche,0,Disponible
+2025-05-28,10:03:54,Zacatecas,0,Disponible
+2025-05-28,10:03:56,SESEA_NuevoLeon,0,Disponible
+2025-05-29,10:03:01,Guanajuato,22,Disponible
+2025-05-29,10:03:03,Quintana Roo,0,Disponible
+2025-05-29,10:03:04,Chihuahua,0,Disponible
+2025-05-29,10:03:06,Veracruz,6,Disponible
+2025-05-29,10:03:07,Guerrero,23,Disponible
+2025-05-29,10:03:09,Yucatán,5,Disponible
+2025-05-29,10:03:11,Puebla,0,Disponible
+2025-05-29,10:03:13,Jalisco,3535,Disponible
+2025-05-29,10:03:15,México,9517,Disponible
+2025-05-29,10:03:17,Tlaxcala,29,Disponible
+2025-05-29,10:03:19,Baja California Sur,187,Disponible
+2025-05-29,10:03:21,Michoacán,85,Disponible
+2025-05-29,10:03:22,Durango,0,No disponible/Request failed with status code 400
+2025-05-29,10:03:25,Sinaloa,538,Disponible
+2025-05-29,10:03:27,Tabasco,196,Disponible
+2025-05-29,10:03:30,Tamaulipas,0,Disponible
+2025-05-29,10:03:31,Baja California,0,Disponible
+2025-05-29,10:03:33,Campeche,0,Disponible
+2025-05-29,10:03:35,Zacatecas,0,Disponible
+2025-05-29,10:03:36,SESEA_NuevoLeon,0,Disponible
+2025-05-30,10:03:04,Guanajuato,22,Disponible
+2025-05-30,10:03:07,Quintana Roo,0,Disponible
+2025-05-30,10:03:08,Chihuahua,0,Disponible
+2025-05-30,10:03:10,Veracruz,6,Disponible
+2025-05-30,10:03:12,Guerrero,23,Disponible
+2025-05-30,10:03:14,Yucatán,5,Disponible
+2025-05-30,10:03:15,Puebla,0,Disponible
+2025-05-30,10:03:18,Jalisco,3535,Disponible
+2025-05-30,10:03:20,México,9517,Disponible
+2025-05-30,10:03:22,Tlaxcala,29,Disponible
+2025-05-30,10:03:23,Baja California Sur,187,Disponible
+2025-05-30,10:03:25,Michoacán,85,Disponible
+2025-05-30,10:03:27,Durango,0,No disponible/Request failed with status code 400
+2025-05-30,10:03:30,Sinaloa,538,Disponible
+2025-05-30,10:03:32,Tabasco,196,Disponible
+2025-05-30,10:03:34,Tamaulipas,0,Disponible
+2025-05-30,10:03:36,Baja California,0,Disponible
+2025-05-30,10:03:38,Campeche,0,Disponible
+2025-05-30,10:03:40,Zacatecas,0,Disponible
+2025-05-30,10:03:42,SESEA_NuevoLeon,0,Disponible
+2025-05-31,10:03:23,Guanajuato,22,Disponible
+2025-05-31,10:03:25,Quintana Roo,0,Disponible
+2025-05-31,10:03:26,Chihuahua,0,Disponible
+2025-05-31,10:03:27,Veracruz,6,Disponible
+2025-05-31,10:03:29,Guerrero,23,Disponible
+2025-05-31,10:03:30,Yucatán,5,Disponible
+2025-05-31,10:03:31,Puebla,0,Disponible
+2025-05-31,10:03:33,Jalisco,3535,Disponible
+2025-05-31,10:03:35,México,9517,Disponible
+2025-05-31,10:03:36,Tlaxcala,29,Disponible
+2025-05-31,10:03:38,Baja California Sur,187,Disponible
+2025-05-31,10:03:42,Michoacán,85,Disponible
+2025-05-31,10:03:43,Durango,0,No disponible/Request failed with status code 400
+2025-05-31,10:03:46,Sinaloa,538,Disponible
+2025-05-31,10:03:47,Tabasco,196,Disponible
+2025-05-31,10:03:49,Tamaulipas,0,Disponible
+2025-05-31,10:03:50,Baja California,0,Disponible
+2025-05-31,10:03:52,Campeche,0,Disponible
+2025-05-31,10:03:53,Zacatecas,0,Disponible
+2025-05-31,10:03:54,SESEA_NuevoLeon,0,Disponible
+2025-06-01,10:04:13,Guanajuato,22,Disponible
+2025-06-01,10:04:16,Quintana Roo,0,Disponible
+2025-06-01,10:04:17,Chihuahua,0,Disponible
+2025-06-01,10:04:18,Veracruz,6,Disponible
+2025-06-01,10:04:20,Guerrero,23,Disponible
+2025-06-01,10:04:22,Yucatán,5,Disponible
+2025-06-01,10:04:24,Puebla,0,Disponible
+2025-06-01,10:04:26,Jalisco,3535,Disponible
+2025-06-01,10:04:28,México,9517,Disponible
+2025-06-01,10:04:30,Tlaxcala,29,Disponible
+2025-06-01,10:04:32,Baja California Sur,187,Disponible
+2025-06-01,10:04:34,Michoacán,85,Disponible
+2025-06-01,10:04:35,Durango,0,No disponible/Request failed with status code 400
+2025-06-01,10:04:38,Sinaloa,538,Disponible
+2025-06-01,10:04:40,Tabasco,196,Disponible
+2025-06-01,10:04:43,Tamaulipas,0,Disponible
+2025-06-01,10:04:44,Baja California,0,Disponible
+2025-06-01,10:04:46,Campeche,0,Disponible
+2025-06-01,10:04:48,Zacatecas,0,Disponible
+2025-06-01,10:04:50,SESEA_NuevoLeon,0,Disponible
+2025-06-02,10:06:55,Guanajuato,22,Disponible
+2025-06-02,10:06:57,Quintana Roo,0,Disponible
+2025-06-02,10:06:58,Chihuahua,0,Disponible
+2025-06-02,10:10:59,Veracruz,0,No disponible/Request failed with status code 504
+2025-06-02,10:11:00,Guerrero,23,Disponible
+2025-06-02,10:11:01,Yucatán,5,Disponible
+2025-06-02,10:11:02,Puebla,0,Disponible
+2025-06-02,10:11:04,Jalisco,3535,Disponible
+2025-06-02,10:11:05,México,9517,Disponible
+2025-06-02,10:11:07,Tlaxcala,29,Disponible
+2025-06-02,10:11:08,Baja California Sur,187,Disponible
+2025-06-02,10:11:09,Michoacán,0,No disponible/Request failed with status code 400
+2025-06-02,10:11:10,Durango,0,No disponible/Request failed with status code 400
+2025-06-02,10:11:12,Sinaloa,538,Disponible
+2025-06-02,10:11:14,Tabasco,196,Disponible
+2025-06-02,10:11:21,Tamaulipas,0,Disponible
+2025-06-02,10:11:22,Baja California,0,Disponible
+2025-06-02,10:11:23,Campeche,0,Disponible
+2025-06-02,10:11:24,Zacatecas,0,Disponible
+2025-06-02,10:11:25,SESEA_NuevoLeon,0,No disponible/Request failed with status code 400
+2025-06-03,10:03:34,Guanajuato,22,Disponible
+2025-06-03,10:03:37,Quintana Roo,0,Disponible
+2025-06-03,10:03:39,Chihuahua,0,Disponible
+2025-06-03,10:03:42,Veracruz,6,Disponible
+2025-06-03,10:03:45,Guerrero,23,Disponible
+2025-06-03,10:03:48,Yucatán,5,Disponible
+2025-06-03,10:03:51,Puebla,0,Disponible
+2025-06-03,10:03:54,Jalisco,3535,Disponible
+2025-06-03,10:03:57,México,9517,Disponible
+2025-06-03,10:04:00,Tlaxcala,29,Disponible
+2025-06-03,10:04:02,Baja California Sur,187,Disponible
+2025-06-03,10:04:05,Michoacán,0,No disponible/Request failed with status code 400
+2025-06-03,10:04:07,Durango,0,No disponible/Request failed with status code 400
+2025-06-03,10:04:12,Sinaloa,538,Disponible
+2025-06-03,10:04:15,Tabasco,196,Disponible
+2025-06-03,10:04:18,Tamaulipas,0,Disponible
+2025-06-03,10:04:21,Baja California,0,Disponible
+2025-06-03,10:04:24,Campeche,0,Disponible
+2025-06-03,10:04:27,Zacatecas,0,Disponible
+2025-06-03,10:04:29,SESEA_NuevoLeon,0,No disponible/Request failed with status code 400

@@ -1,0 +1,1541 @@
+FECHA_EJECUCION,HORA_EJECUCION,ENTE,TOTAL_REGISTROS,ESTATUS
+2025-03-16,12:57:14,Aguascalientes,1584,Disponible
+2025-03-16,12:57:14,Baja California Sur,80,Disponible
+2025-03-16,12:57:14,Campeche,136,Disponible
+2025-03-16,12:57:14,Chiapas,798,Disponible
+2025-03-16,12:57:14,Chihuahua,715,Disponible
+2025-03-16,12:57:14,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-03-16,12:57:14,Durango,1780,Disponible
+2025-03-16,12:57:14,México,6234,Disponible
+2025-03-16,12:57:14,Guanajuato,510,Disponible
+2025-03-16,12:57:14,Guerrero,29,Disponible
+2025-03-16,12:57:14,INEGI,ERROR,No disponible/Error reportado por la API
+2025-03-16,12:57:14,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-16,12:57:14,Michoacán,468,Disponible
+2025-03-16,12:57:14,Morelos,599,Disponible
+2025-03-16,12:57:14,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-16,12:57:14,Puebla,597,Disponible
+2025-03-16,12:57:14,Querétaro,277,Disponible
+2025-03-16,12:57:14,Quintana Roo,9,Disponible
+2025-03-16,12:57:14,San Luis Potosí,477,Disponible
+2025-03-16,12:57:14,SABG,205173,Disponible
+2025-03-16,12:57:14,Sinaloa,247,Disponible
+2025-03-16,12:57:14,Tabasco,ERROR,No disponible/Error reportado por la API
+2025-03-16,12:57:14,Tlaxcala,22,Disponible
+2025-03-16,12:57:14,Veracruz,62,Disponible
+2025-03-16,12:57:14,Yucatán,16,Disponible
+2025-03-16,12:57:14,Zacatecas,418,Disponible
+2025-03-16,12:57:14,COFECE,100,Disponible
+2025-03-16,12:57:14,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-17,15:18:25,Aguascalientes,1584,Disponible
+2025-03-17,15:18:25,Baja California Sur,80,Disponible
+2025-03-17,15:18:25,Campeche,136,Disponible
+2025-03-17,15:18:25,Chiapas,798,Disponible
+2025-03-17,15:18:25,Chihuahua,715,Disponible
+2025-03-17,15:18:25,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-03-17,15:18:25,Durango,1780,Disponible
+2025-03-17,15:18:25,México,6234,Disponible
+2025-03-17,15:18:25,Guanajuato,510,Disponible
+2025-03-17,15:18:25,Guerrero,29,Disponible
+2025-03-17,15:18:25,INEGI,ERROR,No disponible/Error reportado por la API
+2025-03-17,15:18:25,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-17,15:18:25,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-03-17,15:18:25,Morelos,599,Disponible
+2025-03-17,15:18:25,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-17,15:18:25,Puebla,597,Disponible
+2025-03-17,15:18:25,Querétaro,277,Disponible
+2025-03-17,15:18:25,Quintana Roo,9,Disponible
+2025-03-17,15:18:25,San Luis Potosí,477,Disponible
+2025-03-17,15:18:25,SABG,205173,Disponible
+2025-03-17,15:18:25,Sinaloa,247,Disponible
+2025-03-17,15:18:25,Tabasco,ERROR,No disponible/Error reportado por la API
+2025-03-17,15:18:25,Tlaxcala,22,Disponible
+2025-03-17,15:18:25,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-03-17,15:18:25,Yucatán,16,Disponible
+2025-03-17,15:18:25,Zacatecas,418,Disponible
+2025-03-17,15:18:25,COFECE,100,Disponible
+2025-03-17,15:18:25,CNDH,45,Disponible
+2025-03-18,11:08:06,Aguascalientes,1585,Disponible
+2025-03-18,11:08:06,Baja California Sur,80,Disponible
+2025-03-18,11:08:06,Campeche,136,Disponible
+2025-03-18,11:08:06,Chiapas,798,Disponible
+2025-03-18,11:08:06,Chihuahua,715,Disponible
+2025-03-18,11:08:06,Coahuila,220,Disponible
+2025-03-18,11:08:06,Durango,1780,Disponible
+2025-03-18,11:08:06,México,6234,Disponible
+2025-03-18,11:08:06,Guanajuato,510,Disponible
+2025-03-18,11:08:06,Guerrero,29,Disponible
+2025-03-18,11:08:06,INEGI,3394,Disponible
+2025-03-18,11:08:06,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-18,11:08:06,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-03-18,11:08:06,Morelos,599,Disponible
+2025-03-18,11:08:06,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-18,11:08:06,Puebla,597,Disponible
+2025-03-18,11:08:06,Querétaro,275,Disponible
+2025-03-18,11:08:06,Quintana Roo,9,Disponible
+2025-03-18,11:08:06,San Luis Potosí,477,Disponible
+2025-03-18,11:08:06,SABG,205173,Disponible
+2025-03-18,11:08:06,Sinaloa,247,Disponible
+2025-03-18,11:08:06,Tabasco,468,Disponible
+2025-03-18,11:08:06,Tlaxcala,22,Disponible
+2025-03-18,11:08:06,Veracruz,62,Disponible
+2025-03-18,11:08:06,Yucatán,16,Disponible
+2025-03-18,11:08:06,Zacatecas,419,Disponible
+2025-03-18,11:08:06,COFECE,100,Disponible
+2025-03-18,11:08:06,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-19,11:47:00,Aguascalientes,1598,Disponible
+2025-03-19,11:47:00,Baja California Sur,80,Disponible
+2025-03-19,11:47:00,Campeche,136,Disponible
+2025-03-19,11:47:00,Chiapas,798,Disponible
+2025-03-19,11:47:00,Chihuahua,715,Disponible
+2025-03-19,11:47:00,Coahuila,220,Disponible
+2025-03-19,11:47:00,Durango,1780,Disponible
+2025-03-19,11:47:00,México,6235,Disponible
+2025-03-19,11:47:00,Guanajuato,510,Disponible
+2025-03-19,11:47:00,Guerrero,29,Disponible
+2025-03-19,11:47:00,INEGI,ERROR,No disponible/Error reportado por la API
+2025-03-19,11:47:00,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-19,11:47:00,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-03-19,11:47:00,Morelos,599,Disponible
+2025-03-19,11:47:00,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-19,11:47:00,Puebla,597,Disponible
+2025-03-19,11:47:00,Querétaro,275,Disponible
+2025-03-19,11:47:00,Quintana Roo,9,Disponible
+2025-03-19,11:47:00,San Luis Potosí,477,Disponible
+2025-03-19,11:47:00,SABG,205173,Disponible
+2025-03-19,11:47:00,Sinaloa,247,Disponible
+2025-03-19,11:47:00,Tabasco,468,Disponible
+2025-03-19,11:47:00,Tlaxcala,22,Disponible
+2025-03-19,11:47:00,Veracruz,62,Disponible
+2025-03-19,11:47:00,Yucatán,16,Disponible
+2025-03-19,11:47:00,Zacatecas,420,Disponible
+2025-03-19,11:47:00,COFECE,100,Disponible
+2025-03-19,11:47:00,CNDH,45,Disponible
+2025-03-20,10:02:35,Aguascalientes,1598,Disponible
+2025-03-20,10:02:35,Baja California Sur,80,Disponible
+2025-03-20,10:02:35,Campeche,136,Disponible
+2025-03-20,10:02:35,Chiapas,798,Disponible
+2025-03-20,10:02:35,Chihuahua,715,Disponible
+2025-03-20,10:02:35,Coahuila,220,Disponible
+2025-03-20,10:02:35,Durango,1780,Disponible
+2025-03-20,10:02:35,México,6235,Disponible
+2025-03-20,10:02:35,Guanajuato,510,Disponible
+2025-03-20,10:02:35,Guerrero,29,Disponible
+2025-03-20,10:02:35,INEGI,3394,Disponible
+2025-03-20,10:02:35,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-20,10:02:35,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-03-20,10:02:35,Morelos,599,Disponible
+2025-03-20,10:02:35,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-20,10:02:35,Puebla,597,Disponible
+2025-03-20,10:02:35,Querétaro,275,Disponible
+2025-03-20,10:02:35,Quintana Roo,9,Disponible
+2025-03-20,10:02:35,San Luis Potosí,477,Disponible
+2025-03-20,10:02:35,SABG,205173,Disponible
+2025-03-20,10:02:35,Sinaloa,247,Disponible
+2025-03-20,10:02:35,Tabasco,468,Disponible
+2025-03-20,10:02:35,Tlaxcala,22,Disponible
+2025-03-20,10:02:35,Veracruz,62,Disponible
+2025-03-20,10:02:35,Yucatán,16,Disponible
+2025-03-20,10:02:35,Zacatecas,422,Disponible
+2025-03-20,10:02:35,COFECE,100,Disponible
+2025-03-20,10:02:35,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-21,10:02:29,Aguascalientes,1594,Disponible
+2025-03-21,10:02:29,Baja California Sur,80,Disponible
+2025-03-21,10:02:29,Campeche,136,Disponible
+2025-03-21,10:02:29,Chiapas,798,Disponible
+2025-03-21,10:02:29,Chihuahua,715,Disponible
+2025-03-21,10:02:29,Coahuila,220,Disponible
+2025-03-21,10:02:29,Durango,1779,Disponible
+2025-03-21,10:02:29,México,ERROR,No disponible/Error reportado por la API
+2025-03-21,10:02:29,Guanajuato,510,Disponible
+2025-03-21,10:02:29,Guerrero,29,Disponible
+2025-03-21,10:02:29,INEGI,ERROR,No disponible/Error reportado por la API
+2025-03-21,10:02:29,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-21,10:02:29,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-03-21,10:02:29,Morelos,599,Disponible
+2025-03-21,10:02:29,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-21,10:02:29,Puebla,597,Disponible
+2025-03-21,10:02:29,Querétaro,275,Disponible
+2025-03-21,10:02:29,Quintana Roo,9,Disponible
+2025-03-21,10:02:29,San Luis Potosí,479,Disponible
+2025-03-21,10:02:29,SABG,205173,Disponible
+2025-03-21,10:02:29,Sinaloa,247,Disponible
+2025-03-21,10:02:29,Tabasco,468,Disponible
+2025-03-21,10:02:29,Tlaxcala,22,Disponible
+2025-03-21,10:02:29,Veracruz,62,Disponible
+2025-03-21,10:02:29,Yucatán,16,Disponible
+2025-03-21,10:02:29,Zacatecas,420,Disponible
+2025-03-21,10:02:29,COFECE,100,Disponible
+2025-03-21,10:02:29,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-24,10:02:40,Aguascalientes,1594,Disponible
+2025-03-24,10:02:40,Baja California Sur,80,Disponible
+2025-03-24,10:02:40,Campeche,136,Disponible
+2025-03-24,10:02:40,Chiapas,798,Disponible
+2025-03-24,10:02:40,Chihuahua,715,Disponible
+2025-03-24,10:02:40,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-03-24,10:02:40,Durango,1779,Disponible
+2025-03-24,10:02:40,México,6235,Disponible
+2025-03-24,10:02:40,Guanajuato,510,Disponible
+2025-03-24,10:02:40,Guerrero,29,Disponible
+2025-03-24,10:02:40,INEGI,3394,Disponible
+2025-03-24,10:02:40,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-24,10:02:40,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-03-24,10:02:40,Morelos,599,Disponible
+2025-03-24,10:02:40,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-24,10:02:40,Puebla,597,Disponible
+2025-03-24,10:02:40,Querétaro,275,Disponible
+2025-03-24,10:02:40,Quintana Roo,9,Disponible
+2025-03-24,10:02:40,San Luis Potosí,479,Disponible
+2025-03-24,10:02:40,SABG,205173,Disponible
+2025-03-24,10:02:40,Sinaloa,247,Disponible
+2025-03-24,10:02:40,Tabasco,468,Disponible
+2025-03-24,10:02:40,Tlaxcala,22,Disponible
+2025-03-24,10:02:40,Veracruz,62,Disponible
+2025-03-24,10:02:40,Yucatán,16,Disponible
+2025-03-24,10:02:40,Zacatecas,414,Disponible
+2025-03-24,10:02:40,COFECE,100,Disponible
+2025-03-24,10:02:40,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-25,10:02:56,Aguascalientes,1597,Disponible
+2025-03-25,10:02:56,Baja California Sur,80,Disponible
+2025-03-25,10:02:56,Campeche,136,Disponible
+2025-03-25,10:02:56,Chiapas,798,Disponible
+2025-03-25,10:02:56,Chihuahua,715,Disponible
+2025-03-25,10:02:56,Coahuila,220,Disponible
+2025-03-25,10:02:56,Durango,1779,Disponible
+2025-03-25,10:02:56,México,6235,Disponible
+2025-03-25,10:02:56,Guanajuato,510,Disponible
+2025-03-25,10:02:56,Guerrero,29,Disponible
+2025-03-25,10:02:56,INEGI,3394,Disponible
+2025-03-25,10:02:56,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-25,10:02:56,Michoacán,468,Disponible
+2025-03-25,10:02:56,Morelos,599,Disponible
+2025-03-25,10:02:56,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-25,10:02:56,Puebla,597,Disponible
+2025-03-25,10:02:56,Querétaro,275,Disponible
+2025-03-25,10:02:56,Quintana Roo,9,Disponible
+2025-03-25,10:02:56,San Luis Potosí,1535,Disponible
+2025-03-25,10:02:56,SABG,205173,Disponible
+2025-03-25,10:02:56,Sinaloa,247,Disponible
+2025-03-25,10:02:56,Tabasco,468,Disponible
+2025-03-25,10:02:56,Tlaxcala,22,Disponible
+2025-03-25,10:02:56,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-03-25,10:02:56,Yucatán,16,Disponible
+2025-03-25,10:02:56,Zacatecas,408,Disponible
+2025-03-25,10:02:56,COFECE,100,Disponible
+2025-03-25,10:02:56,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-26,10:02:49,Aguascalientes,1597,Disponible
+2025-03-26,10:02:49,Baja California Sur,80,Disponible
+2025-03-26,10:02:49,Campeche,136,Disponible
+2025-03-26,10:02:49,Chiapas,798,Disponible
+2025-03-26,10:02:49,Chihuahua,715,Disponible
+2025-03-26,10:02:49,Coahuila,220,Disponible
+2025-03-26,10:02:49,Durango,1779,Disponible
+2025-03-26,10:02:49,México,6235,Disponible
+2025-03-26,10:02:49,Guanajuato,510,Disponible
+2025-03-26,10:02:49,Guerrero,29,Disponible
+2025-03-26,10:02:49,INEGI,3394,Disponible
+2025-03-26,10:02:49,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-26,10:02:49,Michoacán,468,Disponible
+2025-03-26,10:02:49,Morelos,599,Disponible
+2025-03-26,10:02:49,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-26,10:02:49,Puebla,597,Disponible
+2025-03-26,10:02:49,Querétaro,275,Disponible
+2025-03-26,10:02:49,Quintana Roo,9,Disponible
+2025-03-26,10:02:49,San Luis Potosí,1402,Disponible
+2025-03-26,10:02:49,SABG,205173,Disponible
+2025-03-26,10:02:49,Sinaloa,247,Disponible
+2025-03-26,10:02:49,Tabasco,468,Disponible
+2025-03-26,10:02:49,Tlaxcala,22,Disponible
+2025-03-26,10:02:49,Veracruz,62,Disponible
+2025-03-26,10:02:49,Yucatán,16,Disponible
+2025-03-26,10:02:49,Zacatecas,408,Disponible
+2025-03-26,10:02:49,COFECE,ERROR,No disponible/Error reportado por la API
+2025-03-26,10:02:49,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-27,10:02:57,Aguascalientes,1597,Disponible
+2025-03-27,10:02:57,Baja California Sur,80,Disponible
+2025-03-27,10:02:57,Campeche,136,Disponible
+2025-03-27,10:02:57,Chiapas,798,Disponible
+2025-03-27,10:02:57,Chihuahua,715,Disponible
+2025-03-27,10:02:57,Coahuila,220,Disponible
+2025-03-27,10:02:57,Durango,1780,Disponible
+2025-03-27,10:02:57,México,6235,Disponible
+2025-03-27,10:02:57,Guanajuato,510,Disponible
+2025-03-27,10:02:57,Guerrero,29,Disponible
+2025-03-27,10:02:57,INEGI,3394,Disponible
+2025-03-27,10:02:57,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-27,10:02:57,Michoacán,468,Disponible
+2025-03-27,10:02:57,Morelos,599,Disponible
+2025-03-27,10:02:57,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-27,10:02:57,Puebla,597,Disponible
+2025-03-27,10:02:57,Querétaro,278,Disponible
+2025-03-27,10:02:57,Quintana Roo,9,Disponible
+2025-03-27,10:02:57,San Luis Potosí,1402,Disponible
+2025-03-27,10:02:57,SABG,205322,Disponible
+2025-03-27,10:02:57,Sinaloa,252,Disponible
+2025-03-27,10:02:57,Tabasco,468,Disponible
+2025-03-27,10:02:57,Tlaxcala,22,Disponible
+2025-03-27,10:02:57,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-03-27,10:02:57,Yucatán,16,Disponible
+2025-03-27,10:02:57,Zacatecas,412,Disponible
+2025-03-27,10:02:57,COFECE,100,Disponible
+2025-03-27,10:02:57,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-28,10:48:47,Aguascalientes,1602,Disponible
+2025-03-28,10:48:47,Baja California Sur,80,Disponible
+2025-03-28,10:48:47,Campeche,136,Disponible
+2025-03-28,10:48:47,Chiapas,798,Disponible
+2025-03-28,10:48:47,Chihuahua,715,Disponible
+2025-03-28,10:48:47,Coahuila,220,Disponible
+2025-03-28,10:48:47,Durango,1780,Disponible
+2025-03-28,10:48:47,México,6235,Disponible
+2025-03-28,10:48:47,Guanajuato,510,Disponible
+2025-03-28,10:48:47,Guerrero,29,Disponible
+2025-03-28,10:48:47,INEGI,3394,Disponible
+2025-03-28,10:48:47,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-28,10:48:47,Michoacán,468,Disponible
+2025-03-28,10:48:47,Morelos,599,Disponible
+2025-03-28,10:48:47,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-28,10:48:47,Puebla,597,Disponible
+2025-03-28,10:48:47,Querétaro,278,Disponible
+2025-03-28,10:48:47,Quintana Roo,9,Disponible
+2025-03-28,10:48:47,San Luis Potosí,1402,Disponible
+2025-03-28,10:48:47,SABG,205322,Disponible
+2025-03-28,10:48:47,Sinaloa,252,Disponible
+2025-03-28,10:48:47,Tabasco,468,Disponible
+2025-03-28,10:48:47,Tlaxcala,22,Disponible
+2025-03-28,10:48:47,Veracruz,62,Disponible
+2025-03-28,10:48:47,Yucatán,16,Disponible
+2025-03-28,10:48:47,Zacatecas,416,Disponible
+2025-03-28,10:48:47,COFECE,100,Disponible
+2025-03-28,10:48:47,CNDH,ERROR,No disponible/Error reportado por la API
+2025-03-31,10:02:57,Aguascalientes,1602,Disponible
+2025-03-31,10:02:57,Baja California Sur,80,Disponible
+2025-03-31,10:02:57,Campeche,136,Disponible
+2025-03-31,10:02:57,Chiapas,798,Disponible
+2025-03-31,10:02:57,Chihuahua,715,Disponible
+2025-03-31,10:02:57,Coahuila,220,Disponible
+2025-03-31,10:02:57,Durango,1781,Disponible
+2025-03-31,10:02:57,México,6235,Disponible
+2025-03-31,10:02:57,Guanajuato,510,Disponible
+2025-03-31,10:02:57,Guerrero,29,Disponible
+2025-03-31,10:02:57,INEGI,3394,Disponible
+2025-03-31,10:02:57,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-03-31,10:02:57,Michoacán,468,Disponible
+2025-03-31,10:02:57,Morelos,599,Disponible
+2025-03-31,10:02:57,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-03-31,10:02:57,Puebla,597,Disponible
+2025-03-31,10:02:57,Querétaro,278,Disponible
+2025-03-31,10:02:57,Quintana Roo,9,Disponible
+2025-03-31,10:02:57,San Luis Potosí,1402,Disponible
+2025-03-31,10:02:57,SABG,205322,Disponible
+2025-03-31,10:02:57,Sinaloa,252,Disponible
+2025-03-31,10:02:57,Tabasco,468,Disponible
+2025-03-31,10:02:57,Tlaxcala,22,Disponible
+2025-03-31,10:02:57,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-03-31,10:02:57,Yucatán,16,Disponible
+2025-03-31,10:02:57,Zacatecas,415,Disponible
+2025-03-31,10:02:57,COFECE,100,Disponible
+2025-03-31,10:02:57,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-01,10:28:41,Aguascalientes,1606,Disponible
+2025-04-01,10:28:41,Baja California Sur,80,Disponible
+2025-04-01,10:28:41,Campeche,136,Disponible
+2025-04-01,10:28:41,Chiapas,798,Disponible
+2025-04-01,10:28:41,Chihuahua,715,Disponible
+2025-04-01,10:28:41,Coahuila,220,Disponible
+2025-04-01,10:28:41,Durango,1781,Disponible
+2025-04-01,10:28:41,México,6236,Disponible
+2025-04-01,10:28:41,Guanajuato,ERROR,No disponible/Error reportado por la API
+2025-04-01,10:28:41,Guerrero,29,Disponible
+2025-04-01,10:28:41,INEGI,3394,Disponible
+2025-04-01,10:28:41,Jalisco,ERROR,No disponible/Error reportado por la API
+2025-04-01,10:28:41,Michoacán,468,Disponible
+2025-04-01,10:28:41,Morelos,599,Disponible
+2025-04-01,10:28:41,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-01,10:28:41,Puebla,ERROR,No disponible/Error reportado por la API
+2025-04-01,10:28:41,Querétaro,281,Disponible
+2025-04-01,10:28:41,Quintana Roo,9,Disponible
+2025-04-01,10:28:41,San Luis Potosí,1402,Disponible
+2025-04-01,10:28:41,SABG,205559,Disponible
+2025-04-01,10:28:41,Sinaloa,255,Disponible
+2025-04-01,10:28:41,Tabasco,ERROR,No disponible/Error reportado por la API
+2025-04-01,10:28:41,Tlaxcala,22,Disponible
+2025-04-01,10:28:41,Veracruz,62,Disponible
+2025-04-01,10:28:41,Yucatán,16,Disponible
+2025-04-01,10:28:41,Zacatecas,415,Disponible
+2025-04-01,10:28:41,COFECE,100,Disponible
+2025-04-01,10:28:41,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-02,10:03:08,Aguascalientes,1618,Disponible
+2025-04-02,10:03:08,Baja California Sur,80,Disponible
+2025-04-02,10:03:08,Campeche,136,Disponible
+2025-04-02,10:03:08,Chiapas,798,Disponible
+2025-04-02,10:03:08,Chihuahua,715,Disponible
+2025-04-02,10:03:08,Coahuila,220,Disponible
+2025-04-02,10:03:08,Durango,1781,Disponible
+2025-04-02,10:03:08,México,6236,Disponible
+2025-04-02,10:03:08,Guanajuato,510,Disponible
+2025-04-02,10:03:08,Guerrero,29,Disponible
+2025-04-02,10:03:08,INEGI,ERROR,No disponible/Error reportado por la API
+2025-04-02,10:03:08,Jalisco,2081,Disponible
+2025-04-02,10:03:08,Michoacán,468,Disponible
+2025-04-02,10:03:08,Morelos,599,Disponible
+2025-04-02,10:03:08,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-02,10:03:08,Puebla,597,Disponible
+2025-04-02,10:03:08,Querétaro,281,Disponible
+2025-04-02,10:03:08,Quintana Roo,9,Disponible
+2025-04-02,10:03:08,San Luis Potosí,1402,Disponible
+2025-04-02,10:03:08,SABG,205559,Disponible
+2025-04-02,10:03:08,Sinaloa,255,Disponible
+2025-04-02,10:03:08,Tabasco,468,Disponible
+2025-04-02,10:03:08,Tlaxcala,22,Disponible
+2025-04-02,10:03:08,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-04-02,10:03:08,Yucatán,16,Disponible
+2025-04-02,10:03:08,Zacatecas,415,Disponible
+2025-04-02,10:03:08,COFECE,100,Disponible
+2025-04-02,10:03:08,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-03,10:03:02,Aguascalientes,1618,Disponible
+2025-04-03,10:03:02,Baja California Sur,80,Disponible
+2025-04-03,10:03:02,Campeche,136,Disponible
+2025-04-03,10:03:02,Chiapas,798,Disponible
+2025-04-03,10:03:02,Chihuahua,715,Disponible
+2025-04-03,10:03:02,Coahuila,220,Disponible
+2025-04-03,10:03:02,Durango,1781,Disponible
+2025-04-03,10:03:02,México,6236,Disponible
+2025-04-03,10:03:02,Guanajuato,510,Disponible
+2025-04-03,10:03:02,Guerrero,29,Disponible
+2025-04-03,10:03:02,INEGI,3394,Disponible
+2025-04-03,10:03:02,Jalisco,2081,Disponible
+2025-04-03,10:03:02,Michoacán,468,Disponible
+2025-04-03,10:03:02,Morelos,599,Disponible
+2025-04-03,10:03:02,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-03,10:03:02,Puebla,597,Disponible
+2025-04-03,10:03:02,Querétaro,281,Disponible
+2025-04-03,10:03:02,Quintana Roo,9,Disponible
+2025-04-03,10:03:02,San Luis Potosí,1402,Disponible
+2025-04-03,10:03:02,SABG,205559,Disponible
+2025-04-03,10:03:02,Sinaloa,255,Disponible
+2025-04-03,10:03:02,Tabasco,468,Disponible
+2025-04-03,10:03:02,Tlaxcala,22,Disponible
+2025-04-03,10:03:02,Veracruz,62,Disponible
+2025-04-03,10:03:02,Yucatán,16,Disponible
+2025-04-03,10:03:02,Zacatecas,415,Disponible
+2025-04-03,10:03:02,COFECE,100,Disponible
+2025-04-03,10:03:02,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-04,10:03:16,Aguascalientes,1618,Disponible
+2025-04-04,10:03:16,Baja California Sur,80,Disponible
+2025-04-04,10:03:16,Campeche,136,Disponible
+2025-04-04,10:03:16,Chiapas,798,Disponible
+2025-04-04,10:03:16,Chihuahua,715,Disponible
+2025-04-04,10:03:16,Coahuila,220,Disponible
+2025-04-04,10:03:16,Durango,1781,Disponible
+2025-04-04,10:03:16,México,6236,Disponible
+2025-04-04,10:03:16,Guanajuato,510,Disponible
+2025-04-04,10:03:16,Guerrero,29,Disponible
+2025-04-04,10:03:16,INEGI,3394,Disponible
+2025-04-04,10:03:16,Jalisco,2081,Disponible
+2025-04-04,10:03:16,Michoacán,468,Disponible
+2025-04-04,10:03:16,Morelos,670,Disponible
+2025-04-04,10:03:16,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-04,10:03:16,Puebla,597,Disponible
+2025-04-04,10:03:16,Querétaro,283,Disponible
+2025-04-04,10:03:16,Quintana Roo,9,Disponible
+2025-04-04,10:03:16,San Luis Potosí,484,Disponible
+2025-04-04,10:03:16,SABG,205559,Disponible
+2025-04-04,10:03:16,Sinaloa,255,Disponible
+2025-04-04,10:03:16,Tabasco,468,Disponible
+2025-04-04,10:03:16,Tlaxcala,22,Disponible
+2025-04-04,10:03:16,Veracruz,62,Disponible
+2025-04-04,10:03:16,Yucatán,16,Disponible
+2025-04-04,10:03:16,Zacatecas,415,Disponible
+2025-04-04,10:03:16,COFECE,100,Disponible
+2025-04-04,10:03:16,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-07,10:12:38,Aguascalientes,1618,Disponible
+2025-04-07,10:12:38,Baja California Sur,80,Disponible
+2025-04-07,10:12:38,Campeche,136,Disponible
+2025-04-07,10:12:38,Chiapas,798,Disponible
+2025-04-07,10:12:38,Chihuahua,715,Disponible
+2025-04-07,10:12:38,Coahuila,220,Disponible
+2025-04-07,10:12:38,Durango,1781,Disponible
+2025-04-07,10:12:38,México,6236,Disponible
+2025-04-07,10:12:38,Guanajuato,510,Disponible
+2025-04-07,10:12:38,Guerrero,29,Disponible
+2025-04-07,10:12:38,INEGI,ERROR,No disponible/Error reportado por la API
+2025-04-07,10:12:38,Jalisco,2081,Disponible
+2025-04-07,10:12:38,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-04-07,10:12:38,Morelos,670,Disponible
+2025-04-07,10:12:38,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-07,10:12:38,Puebla,597,Disponible
+2025-04-07,10:12:38,Querétaro,283,Disponible
+2025-04-07,10:12:38,Quintana Roo,9,Disponible
+2025-04-07,10:12:38,San Luis Potosí,484,Disponible
+2025-04-07,10:12:38,SABG,205559,Disponible
+2025-04-07,10:12:38,Sinaloa,262,Disponible
+2025-04-07,10:12:38,Tabasco,468,Disponible
+2025-04-07,10:12:38,Tlaxcala,22,Disponible
+2025-04-07,10:12:38,Veracruz,62,Disponible
+2025-04-07,10:12:38,Yucatán,16,Disponible
+2025-04-07,10:12:38,Zacatecas,416,Disponible
+2025-04-07,10:12:38,COFECE,100,Disponible
+2025-04-07,10:12:38,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-08,10:02:37,Aguascalientes,1621,Disponible
+2025-04-08,10:02:37,Baja California Sur,80,Disponible
+2025-04-08,10:02:37,Campeche,136,Disponible
+2025-04-08,10:02:37,Chiapas,798,Disponible
+2025-04-08,10:02:37,Chihuahua,715,Disponible
+2025-04-08,10:02:37,Coahuila,220,Disponible
+2025-04-08,10:02:37,Durango,1781,Disponible
+2025-04-08,10:02:37,México,6245,Disponible
+2025-04-08,10:02:37,Guanajuato,510,Disponible
+2025-04-08,10:02:37,Guerrero,29,Disponible
+2025-04-08,10:02:37,INEGI,3394,Disponible
+2025-04-08,10:02:37,Jalisco,2081,Disponible
+2025-04-08,10:02:37,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-04-08,10:02:37,Morelos,670,Disponible
+2025-04-08,10:02:37,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-08,10:02:37,Puebla,597,Disponible
+2025-04-08,10:02:37,Querétaro,283,Disponible
+2025-04-08,10:02:37,Quintana Roo,9,Disponible
+2025-04-08,10:02:37,San Luis Potosí,484,Disponible
+2025-04-08,10:02:37,SABG,205559,Disponible
+2025-04-08,10:02:37,Sinaloa,262,Disponible
+2025-04-08,10:02:37,Tabasco,468,Disponible
+2025-04-08,10:02:37,Tlaxcala,22,Disponible
+2025-04-08,10:02:37,Veracruz,62,Disponible
+2025-04-08,10:02:37,Yucatán,16,Disponible
+2025-04-08,10:02:37,Zacatecas,416,Disponible
+2025-04-08,10:02:37,COFECE,100,Disponible
+2025-04-08,10:02:37,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-09,10:03:09,Aguascalientes,1621,Disponible
+2025-04-09,10:03:09,Baja California Sur,80,Disponible
+2025-04-09,10:03:09,Campeche,136,Disponible
+2025-04-09,10:03:09,Chiapas,798,Disponible
+2025-04-09,10:03:09,Chihuahua,715,Disponible
+2025-04-09,10:03:09,Coahuila,220,Disponible
+2025-04-09,10:03:09,Durango,1781,Disponible
+2025-04-09,10:03:09,México,6245,Disponible
+2025-04-09,10:03:09,Guanajuato,510,Disponible
+2025-04-09,10:03:09,Guerrero,29,Disponible
+2025-04-09,10:03:09,INEGI,3394,Disponible
+2025-04-09,10:03:09,Jalisco,2081,Disponible
+2025-04-09,10:03:09,Michoacán,468,Disponible
+2025-04-09,10:03:09,Morelos,670,Disponible
+2025-04-09,10:03:09,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-09,10:03:09,Puebla,597,Disponible
+2025-04-09,10:03:09,Querétaro,283,Disponible
+2025-04-09,10:03:09,Quintana Roo,9,Disponible
+2025-04-09,10:03:09,San Luis Potosí,484,Disponible
+2025-04-09,10:03:09,SABG,205559,Disponible
+2025-04-09,10:03:09,Sinaloa,262,Disponible
+2025-04-09,10:03:09,Tabasco,468,Disponible
+2025-04-09,10:03:09,Tlaxcala,22,Disponible
+2025-04-09,10:03:09,Veracruz,62,Disponible
+2025-04-09,10:03:09,Yucatán,16,Disponible
+2025-04-09,10:03:09,Zacatecas,417,Disponible
+2025-04-09,10:03:09,COFECE,100,Disponible
+2025-04-09,10:03:09,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-10,10:02:37,Aguascalientes,1622,Disponible
+2025-04-10,10:02:37,Baja California Sur,80,Disponible
+2025-04-10,10:02:37,Campeche,136,Disponible
+2025-04-10,10:02:37,Chiapas,798,Disponible
+2025-04-10,10:02:37,Chihuahua,715,Disponible
+2025-04-10,10:02:37,Coahuila,220,Disponible
+2025-04-10,10:02:37,Durango,1781,Disponible
+2025-04-10,10:02:37,México,6245,Disponible
+2025-04-10,10:02:37,Guanajuato,510,Disponible
+2025-04-10,10:02:37,Guerrero,29,Disponible
+2025-04-10,10:02:37,INEGI,3394,Disponible
+2025-04-10,10:02:37,Jalisco,2081,Disponible
+2025-04-10,10:02:37,Michoacán,468,Disponible
+2025-04-10,10:02:37,Morelos,670,Disponible
+2025-04-10,10:02:37,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-10,10:02:37,Puebla,597,Disponible
+2025-04-10,10:02:37,Querétaro,283,Disponible
+2025-04-10,10:02:37,Quintana Roo,9,Disponible
+2025-04-10,10:02:37,San Luis Potosí,484,Disponible
+2025-04-10,10:02:37,SABG,205559,Disponible
+2025-04-10,10:02:37,Sinaloa,270,Disponible
+2025-04-10,10:02:37,Tabasco,468,Disponible
+2025-04-10,10:02:37,Tlaxcala,22,Disponible
+2025-04-10,10:02:37,Veracruz,62,Disponible
+2025-04-10,10:02:37,Yucatán,16,Disponible
+2025-04-10,10:02:37,Zacatecas,424,Disponible
+2025-04-10,10:02:37,COFECE,100,Disponible
+2025-04-10,10:02:37,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-11,10:02:46,Aguascalientes,1622,Disponible
+2025-04-11,10:02:46,Baja California Sur,80,Disponible
+2025-04-11,10:02:46,Campeche,136,Disponible
+2025-04-11,10:02:46,Chiapas,798,Disponible
+2025-04-11,10:02:46,Chihuahua,715,Disponible
+2025-04-11,10:02:46,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-04-11,10:02:46,Durango,1781,Disponible
+2025-04-11,10:02:46,México,6245,Disponible
+2025-04-11,10:02:46,Guanajuato,510,Disponible
+2025-04-11,10:02:46,Guerrero,29,Disponible
+2025-04-11,10:02:46,INEGI,ERROR,No disponible/Error reportado por la API
+2025-04-11,10:02:46,Jalisco,2081,Disponible
+2025-04-11,10:02:46,Michoacán,468,Disponible
+2025-04-11,10:02:46,Morelos,670,Disponible
+2025-04-11,10:02:46,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-11,10:02:46,Puebla,597,Disponible
+2025-04-11,10:02:46,Querétaro,283,Disponible
+2025-04-11,10:02:46,Quintana Roo,9,Disponible
+2025-04-11,10:02:46,San Luis Potosí,484,Disponible
+2025-04-11,10:02:46,SABG,205559,Disponible
+2025-04-11,10:02:46,Sinaloa,271,Disponible
+2025-04-11,10:02:46,Tabasco,468,Disponible
+2025-04-11,10:02:46,Tlaxcala,22,Disponible
+2025-04-11,10:02:46,Veracruz,62,Disponible
+2025-04-11,10:02:46,Yucatán,16,Disponible
+2025-04-11,10:02:46,Zacatecas,425,Disponible
+2025-04-11,10:02:46,COFECE,100,Disponible
+2025-04-11,10:02:46,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-14,10:09:23,Aguascalientes,1623,Disponible
+2025-04-14,10:09:23,Baja California Sur,80,Disponible
+2025-04-14,10:09:23,Campeche,136,Disponible
+2025-04-14,10:09:23,Chiapas,798,Disponible
+2025-04-14,10:09:23,Chihuahua,715,Disponible
+2025-04-14,10:09:23,Coahuila,220,Disponible
+2025-04-14,10:09:23,Durango,1781,Disponible
+2025-04-14,10:09:23,México,6253,Disponible
+2025-04-14,10:09:23,Guanajuato,510,Disponible
+2025-04-14,10:09:23,Guerrero,29,Disponible
+2025-04-14,10:09:23,INEGI,3394,Disponible
+2025-04-14,10:09:23,Jalisco,2081,Disponible
+2025-04-14,10:09:23,Michoacán,468,Disponible
+2025-04-14,10:09:23,Morelos,670,Disponible
+2025-04-14,10:09:23,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-14,10:09:23,Puebla,597,Disponible
+2025-04-14,10:09:23,Querétaro,283,Disponible
+2025-04-14,10:09:23,Quintana Roo,9,Disponible
+2025-04-14,10:09:23,San Luis Potosí,484,Disponible
+2025-04-14,10:09:23,SABG,205559,Disponible
+2025-04-14,10:09:23,Sinaloa,273,Disponible
+2025-04-14,10:09:23,Tabasco,468,Disponible
+2025-04-14,10:09:23,Tlaxcala,22,Disponible
+2025-04-14,10:09:23,Veracruz,62,Disponible
+2025-04-14,10:09:23,Yucatán,16,Disponible
+2025-04-14,10:09:23,Zacatecas,426,Disponible
+2025-04-14,10:09:23,COFECE,100,Disponible
+2025-04-14,10:09:23,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-15,10:02:35,Aguascalientes,1623,Disponible
+2025-04-15,10:02:35,Baja California Sur,80,Disponible
+2025-04-15,10:02:35,Campeche,136,Disponible
+2025-04-15,10:02:35,Chiapas,798,Disponible
+2025-04-15,10:02:35,Chihuahua,796,Disponible
+2025-04-15,10:02:35,Coahuila,220,Disponible
+2025-04-15,10:02:35,Durango,1781,Disponible
+2025-04-15,10:02:35,México,6253,Disponible
+2025-04-15,10:02:35,Guanajuato,510,Disponible
+2025-04-15,10:02:35,Guerrero,29,Disponible
+2025-04-15,10:02:35,INEGI,3394,Disponible
+2025-04-15,10:02:35,Jalisco,2081,Disponible
+2025-04-15,10:02:35,Michoacán,468,Disponible
+2025-04-15,10:02:35,Morelos,670,Disponible
+2025-04-15,10:02:35,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-15,10:02:35,Puebla,597,Disponible
+2025-04-15,10:02:35,Querétaro,283,Disponible
+2025-04-15,10:02:35,Quintana Roo,9,Disponible
+2025-04-15,10:02:35,San Luis Potosí,484,Disponible
+2025-04-15,10:02:35,SABG,205559,Disponible
+2025-04-15,10:02:35,Sinaloa,273,Disponible
+2025-04-15,10:02:35,Tabasco,468,Disponible
+2025-04-15,10:02:35,Tlaxcala,22,Disponible
+2025-04-15,10:02:35,Veracruz,62,Disponible
+2025-04-15,10:02:35,Yucatán,16,Disponible
+2025-04-15,10:02:35,Zacatecas,431,Disponible
+2025-04-15,10:02:35,COFECE,100,Disponible
+2025-04-15,10:02:35,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-21,10:02:47,Aguascalientes,1617,Disponible
+2025-04-21,10:02:47,Baja California Sur,80,Disponible
+2025-04-21,10:02:47,Campeche,136,Disponible
+2025-04-21,10:02:47,Chiapas,798,Disponible
+2025-04-21,10:02:47,Chihuahua,796,Disponible
+2025-04-21,10:02:47,Coahuila,220,Disponible
+2025-04-21,10:02:47,Durango,1781,Disponible
+2025-04-21,10:02:47,México,6253,Disponible
+2025-04-21,10:02:47,Guanajuato,510,Disponible
+2025-04-21,10:02:47,Guerrero,29,Disponible
+2025-04-21,10:02:47,INEGI,3394,Disponible
+2025-04-21,10:02:47,Jalisco,2081,Disponible
+2025-04-21,10:02:47,Michoacán,468,Disponible
+2025-04-21,10:02:47,Morelos,670,Disponible
+2025-04-21,10:02:47,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-21,10:02:47,Puebla,597,Disponible
+2025-04-21,10:02:47,Querétaro,282,Disponible
+2025-04-21,10:02:47,Quintana Roo,9,Disponible
+2025-04-21,10:02:47,San Luis Potosí,484,Disponible
+2025-04-21,10:02:47,SABG,205559,Disponible
+2025-04-21,10:02:47,Sinaloa,196,Disponible
+2025-04-21,10:02:47,Tabasco,468,Disponible
+2025-04-21,10:02:47,Tlaxcala,22,Disponible
+2025-04-21,10:02:47,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-04-21,10:02:47,Yucatán,16,Disponible
+2025-04-21,10:02:47,Zacatecas,431,Disponible
+2025-04-21,10:02:47,COFECE,100,Disponible
+2025-04-21,10:02:47,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-22,10:03:05,Aguascalientes,1617,Disponible
+2025-04-22,10:03:05,Baja California Sur,80,Disponible
+2025-04-22,10:03:05,Campeche,136,Disponible
+2025-04-22,10:03:05,Chiapas,798,Disponible
+2025-04-22,10:03:05,Chihuahua,796,Disponible
+2025-04-22,10:03:05,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-04-22,10:03:05,Durango,1781,Disponible
+2025-04-22,10:03:05,México,6255,Disponible
+2025-04-22,10:03:05,Guanajuato,ERROR,No disponible/Error reportado por la API
+2025-04-22,10:03:05,Guerrero,29,Disponible
+2025-04-22,10:03:05,INEGI,ERROR,No disponible/Error reportado por la API
+2025-04-22,10:03:05,Jalisco,2081,Disponible
+2025-04-22,10:03:05,Michoacán,468,Disponible
+2025-04-22,10:03:05,Morelos,670,Disponible
+2025-04-22,10:03:05,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-22,10:03:05,Puebla,597,Disponible
+2025-04-22,10:03:05,Querétaro,282,Disponible
+2025-04-22,10:03:05,Quintana Roo,9,Disponible
+2025-04-22,10:03:05,San Luis Potosí,496,Disponible
+2025-04-22,10:03:05,SABG,205559,Disponible
+2025-04-22,10:03:05,Sinaloa,196,Disponible
+2025-04-22,10:03:05,Tabasco,468,Disponible
+2025-04-22,10:03:05,Tlaxcala,22,Disponible
+2025-04-22,10:03:05,Veracruz,62,Disponible
+2025-04-22,10:03:05,Yucatán,16,Disponible
+2025-04-22,10:03:05,Zacatecas,431,Disponible
+2025-04-22,10:03:05,COFECE,100,Disponible
+2025-04-22,10:03:05,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-23,10:12:49,Aguascalientes,1621,Disponible
+2025-04-23,10:12:49,Baja California Sur,80,Disponible
+2025-04-23,10:12:49,Campeche,ERROR,No disponible/Error reportado por la API
+2025-04-23,10:12:49,Chiapas,798,Disponible
+2025-04-23,10:12:49,Chihuahua,796,Disponible
+2025-04-23,10:12:49,Coahuila,220,Disponible
+2025-04-23,10:12:49,Durango,1781,Disponible
+2025-04-23,10:12:49,México,6255,Disponible
+2025-04-23,10:12:49,Guanajuato,ERROR,No disponible/Error reportado por la API
+2025-04-23,10:12:49,Guerrero,29,Disponible
+2025-04-23,10:12:49,INEGI,ERROR,No disponible/Error reportado por la API
+2025-04-23,10:12:49,Jalisco,2081,Disponible
+2025-04-23,10:12:49,Michoacán,468,Disponible
+2025-04-23,10:12:49,Morelos,670,Disponible
+2025-04-23,10:12:49,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-23,10:12:49,Puebla,597,Disponible
+2025-04-23,10:12:49,Querétaro,283,Disponible
+2025-04-23,10:12:49,Quintana Roo,9,Disponible
+2025-04-23,10:12:49,San Luis Potosí,ERROR,No disponible/Error reportado por la API
+2025-04-23,10:12:49,SABG,205559,Disponible
+2025-04-23,10:12:49,Sinaloa,200,Disponible
+2025-04-23,10:12:49,Tabasco,468,Disponible
+2025-04-23,10:12:49,Tlaxcala,22,Disponible
+2025-04-23,10:12:49,Veracruz,62,Disponible
+2025-04-23,10:12:49,Yucatán,16,Disponible
+2025-04-23,10:12:49,Zacatecas,431,Disponible
+2025-04-23,10:12:49,COFECE,100,Disponible
+2025-04-23,10:12:49,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-24,10:02:52,Aguascalientes,1621,Disponible
+2025-04-24,10:02:52,Baja California Sur,80,Disponible
+2025-04-24,10:02:52,Campeche,ERROR,No disponible/Error reportado por la API
+2025-04-24,10:02:52,Chiapas,798,Disponible
+2025-04-24,10:02:52,Chihuahua,796,Disponible
+2025-04-24,10:02:52,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-04-24,10:02:52,Durango,1781,Disponible
+2025-04-24,10:02:52,México,6255,Disponible
+2025-04-24,10:02:52,Guanajuato,510,Disponible
+2025-04-24,10:02:52,Guerrero,29,Disponible
+2025-04-24,10:02:52,INEGI,ERROR,No disponible/Error reportado por la API
+2025-04-24,10:02:52,Jalisco,2081,Disponible
+2025-04-24,10:02:52,Michoacán,468,Disponible
+2025-04-24,10:02:52,Morelos,670,Disponible
+2025-04-24,10:02:52,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-24,10:02:52,Puebla,597,Disponible
+2025-04-24,10:02:52,Querétaro,283,Disponible
+2025-04-24,10:02:52,Quintana Roo,9,Disponible
+2025-04-24,10:02:52,San Luis Potosí,517,Disponible
+2025-04-24,10:02:52,SABG,205559,Disponible
+2025-04-24,10:02:52,Sinaloa,200,Disponible
+2025-04-24,10:02:52,Tabasco,468,Disponible
+2025-04-24,10:02:52,Tlaxcala,22,Disponible
+2025-04-24,10:02:52,Veracruz,62,Disponible
+2025-04-24,10:02:52,Yucatán,16,Disponible
+2025-04-24,10:02:52,Zacatecas,431,Disponible
+2025-04-24,10:02:52,COFECE,100,Disponible
+2025-04-24,10:02:52,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-25,10:11:18,Aguascalientes,1621,Disponible
+2025-04-25,10:11:18,Baja California Sur,80,Disponible
+2025-04-25,10:11:18,Campeche,ERROR,No disponible/Error reportado por la API
+2025-04-25,10:11:18,Chiapas,798,Disponible
+2025-04-25,10:11:18,Chihuahua,796,Disponible
+2025-04-25,10:11:18,Coahuila,220,Disponible
+2025-04-25,10:11:18,Durango,1781,Disponible
+2025-04-25,10:11:18,México,ERROR,No disponible/Error reportado por la API
+2025-04-25,10:11:18,Guanajuato,510,Disponible
+2025-04-25,10:11:18,Guerrero,29,Disponible
+2025-04-25,10:11:18,INEGI,3394,Disponible
+2025-04-25,10:11:18,Jalisco,2081,Disponible
+2025-04-25,10:11:18,Michoacán,468,Disponible
+2025-04-25,10:11:18,Morelos,670,Disponible
+2025-04-25,10:11:18,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-25,10:11:18,Puebla,597,Disponible
+2025-04-25,10:11:18,Querétaro,283,Disponible
+2025-04-25,10:11:18,Quintana Roo,9,Disponible
+2025-04-25,10:11:18,San Luis Potosí,517,Disponible
+2025-04-25,10:11:18,SABG,205559,Disponible
+2025-04-25,10:11:18,Sinaloa,200,Disponible
+2025-04-25,10:11:18,Tabasco,468,Disponible
+2025-04-25,10:11:18,Tlaxcala,22,Disponible
+2025-04-25,10:11:18,Veracruz,62,Disponible
+2025-04-25,10:11:18,Yucatán,16,Disponible
+2025-04-25,10:11:18,Zacatecas,431,Disponible
+2025-04-25,10:11:18,COFECE,100,Disponible
+2025-04-25,10:11:18,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-28,10:11:39,Aguascalientes,1621,Disponible
+2025-04-28,10:11:39,Baja California Sur,80,Disponible
+2025-04-28,10:11:39,Campeche,ERROR,No disponible/Error reportado por la API
+2025-04-28,10:11:39,Chiapas,798,Disponible
+2025-04-28,10:11:39,Chihuahua,796,Disponible
+2025-04-28,10:11:39,Coahuila,220,Disponible
+2025-04-28,10:11:39,Durango,1781,Disponible
+2025-04-28,10:11:39,México,ERROR,No disponible/Error reportado por la API
+2025-04-28,10:11:39,Guanajuato,509,Disponible
+2025-04-28,10:11:39,Guerrero,29,Disponible
+2025-04-28,10:11:39,INEGI,3394,Disponible
+2025-04-28,10:11:39,Jalisco,2081,Disponible
+2025-04-28,10:11:39,Michoacán,468,Disponible
+2025-04-28,10:11:39,Morelos,670,Disponible
+2025-04-28,10:11:39,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-28,10:11:39,Puebla,597,Disponible
+2025-04-28,10:11:39,Querétaro,283,Disponible
+2025-04-28,10:11:39,Quintana Roo,9,Disponible
+2025-04-28,10:11:39,San Luis Potosí,517,Disponible
+2025-04-28,10:11:39,SABG,0,Disponible
+2025-04-28,10:11:39,Sinaloa,200,Disponible
+2025-04-28,10:11:39,Tabasco,468,Disponible
+2025-04-28,10:11:39,Tlaxcala,22,Disponible
+2025-04-28,10:11:39,Veracruz,62,Disponible
+2025-04-28,10:11:39,Yucatán,16,Disponible
+2025-04-28,10:11:39,Zacatecas,431,Disponible
+2025-04-28,10:11:39,COFECE,100,Disponible
+2025-04-28,10:11:39,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-29,10:12:15,Aguascalientes,1621,Disponible
+2025-04-29,10:12:15,Baja California Sur,80,Disponible
+2025-04-29,10:12:15,Campeche,ERROR,No disponible/Error reportado por la API
+2025-04-29,10:12:15,Chiapas,798,Disponible
+2025-04-29,10:12:15,Chihuahua,796,Disponible
+2025-04-29,10:12:15,Coahuila,220,Disponible
+2025-04-29,10:12:15,Durango,1781,Disponible
+2025-04-29,10:12:15,México,ERROR,No disponible/Error reportado por la API
+2025-04-29,10:12:15,Guanajuato,509,Disponible
+2025-04-29,10:12:15,Guerrero,29,Disponible
+2025-04-29,10:12:15,INEGI,3394,Disponible
+2025-04-29,10:12:15,Jalisco,2081,Disponible
+2025-04-29,10:12:15,Michoacán,468,Disponible
+2025-04-29,10:12:15,Morelos,670,Disponible
+2025-04-29,10:12:15,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-29,10:12:15,Puebla,597,Disponible
+2025-04-29,10:12:15,Querétaro,283,Disponible
+2025-04-29,10:12:15,Quintana Roo,9,Disponible
+2025-04-29,10:12:15,San Luis Potosí,537,Disponible
+2025-04-29,10:12:15,SABG,205559,Disponible
+2025-04-29,10:12:15,Sinaloa,200,Disponible
+2025-04-29,10:12:15,Tabasco,468,Disponible
+2025-04-29,10:12:15,Tlaxcala,22,Disponible
+2025-04-29,10:12:15,Veracruz,62,Disponible
+2025-04-29,10:12:15,Yucatán,16,Disponible
+2025-04-29,10:12:15,Zacatecas,433,Disponible
+2025-04-29,10:12:15,COFECE,100,Disponible
+2025-04-29,10:12:15,CNDH,ERROR,No disponible/Error reportado por la API
+2025-04-30,10:11:54,Aguascalientes,1622,Disponible
+2025-04-30,10:11:54,Baja California Sur,80,Disponible
+2025-04-30,10:11:54,Campeche,ERROR,No disponible/Error reportado por la API
+2025-04-30,10:11:54,Chiapas,798,Disponible
+2025-04-30,10:11:54,Chihuahua,796,Disponible
+2025-04-30,10:11:54,Coahuila,220,Disponible
+2025-04-30,10:11:54,Durango,1781,Disponible
+2025-04-30,10:11:54,México,ERROR,No disponible/Error reportado por la API
+2025-04-30,10:11:54,Guanajuato,509,Disponible
+2025-04-30,10:11:54,Guerrero,29,Disponible
+2025-04-30,10:11:54,INEGI,3394,Disponible
+2025-04-30,10:11:54,Jalisco,2081,Disponible
+2025-04-30,10:11:54,Michoacán,468,Disponible
+2025-04-30,10:11:54,Morelos,670,Disponible
+2025-04-30,10:11:54,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-04-30,10:11:54,Puebla,597,Disponible
+2025-04-30,10:11:54,Querétaro,283,Disponible
+2025-04-30,10:11:54,Quintana Roo,9,Disponible
+2025-04-30,10:11:54,San Luis Potosí,537,Disponible
+2025-04-30,10:11:54,SABG,205559,Disponible
+2025-04-30,10:11:54,Sinaloa,202,Disponible
+2025-04-30,10:11:54,Tabasco,468,Disponible
+2025-04-30,10:11:54,Tlaxcala,22,Disponible
+2025-04-30,10:11:54,Veracruz,62,Disponible
+2025-04-30,10:11:54,Yucatán,16,Disponible
+2025-04-30,10:11:54,Zacatecas,433,Disponible
+2025-04-30,10:11:54,COFECE,ERROR,No disponible/Error reportado por la API
+2025-04-30,10:11:54,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-05,10:03:12,Aguascalientes,1621,Disponible
+2025-05-05,10:03:12,Baja California Sur,80,Disponible
+2025-05-05,10:03:12,Campeche,ERROR,No disponible/Error reportado por la API
+2025-05-05,10:03:12,Chiapas,798,Disponible
+2025-05-05,10:03:12,Chihuahua,796,Disponible
+2025-05-05,10:03:12,Coahuila,220,Disponible
+2025-05-05,10:03:12,Durango,1771,Disponible
+2025-05-05,10:03:12,México,6270,Disponible
+2025-05-05,10:03:12,Guanajuato,509,Disponible
+2025-05-05,10:03:12,Guerrero,29,Disponible
+2025-05-05,10:03:12,INEGI,ERROR,No disponible/Error reportado por la API
+2025-05-05,10:03:12,Jalisco,2081,Disponible
+2025-05-05,10:03:12,Michoacán,468,Disponible
+2025-05-05,10:03:12,Morelos,670,Disponible
+2025-05-05,10:03:12,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-05,10:03:12,Puebla,597,Disponible
+2025-05-05,10:03:12,Querétaro,283,Disponible
+2025-05-05,10:03:12,Quintana Roo,9,Disponible
+2025-05-05,10:03:12,San Luis Potosí,502,Disponible
+2025-05-05,10:03:12,SABG,205559,Disponible
+2025-05-05,10:03:12,Sinaloa,280,Disponible
+2025-05-05,10:03:12,Tabasco,468,Disponible
+2025-05-05,10:03:12,Tlaxcala,22,Disponible
+2025-05-05,10:03:12,Veracruz,62,Disponible
+2025-05-05,10:03:12,Yucatán,16,Disponible
+2025-05-05,10:03:12,Zacatecas,433,Disponible
+2025-05-05,10:03:12,COFECE,100,Disponible
+2025-05-05,10:03:12,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-06,10:37:22,Aguascalientes,1621,Disponible
+2025-05-06,10:37:22,Baja California Sur,80,Disponible
+2025-05-06,10:37:22,Campeche,ERROR,No disponible/Error reportado por la API
+2025-05-06,10:37:22,Chiapas,798,Disponible
+2025-05-06,10:37:22,Chihuahua,796,Disponible
+2025-05-06,10:37:22,Coahuila,220,Disponible
+2025-05-06,10:37:22,Durango,1771,Disponible
+2025-05-06,10:37:22,México,6270,Disponible
+2025-05-06,10:37:22,Guanajuato,509,Disponible
+2025-05-06,10:37:22,Guerrero,29,Disponible
+2025-05-06,10:37:22,INEGI,3394,Disponible
+2025-05-06,10:37:22,Jalisco,2081,Disponible
+2025-05-06,10:37:22,Michoacán,468,Disponible
+2025-05-06,10:37:22,Morelos,670,Disponible
+2025-05-06,10:37:22,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-06,10:37:22,Puebla,597,Disponible
+2025-05-06,10:37:22,Querétaro,283,Disponible
+2025-05-06,10:37:22,Quintana Roo,9,Disponible
+2025-05-06,10:37:22,San Luis Potosí,502,Disponible
+2025-05-06,10:37:22,SABG,205559,Disponible
+2025-05-06,10:37:22,Sinaloa,294,Disponible
+2025-05-06,10:37:22,Tabasco,468,Disponible
+2025-05-06,10:37:22,Tlaxcala,22,Disponible
+2025-05-06,10:37:22,Veracruz,62,Disponible
+2025-05-06,10:37:22,Yucatán,ERROR,No disponible/Error reportado por la API
+2025-05-06,10:37:22,Zacatecas,433,Disponible
+2025-05-06,10:37:22,COFECE,100,Disponible
+2025-05-06,10:37:22,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-07,10:03:21,Aguascalientes,1621,Disponible
+2025-05-07,10:03:21,Baja California Sur,80,Disponible
+2025-05-07,10:03:21,Campeche,ERROR,No disponible/Error reportado por la API
+2025-05-07,10:03:21,Chiapas,798,Disponible
+2025-05-07,10:03:21,Chihuahua,796,Disponible
+2025-05-07,10:03:21,Coahuila,220,Disponible
+2025-05-07,10:03:21,Durango,1771,Disponible
+2025-05-07,10:03:21,México,6270,Disponible
+2025-05-07,10:03:21,Guanajuato,509,Disponible
+2025-05-07,10:03:21,Guerrero,29,Disponible
+2025-05-07,10:03:21,INEGI,3394,Disponible
+2025-05-07,10:03:21,Jalisco,2081,Disponible
+2025-05-07,10:03:21,Michoacán,468,Disponible
+2025-05-07,10:03:21,Morelos,670,Disponible
+2025-05-07,10:03:21,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-07,10:03:21,Puebla,597,Disponible
+2025-05-07,10:03:21,Querétaro,283,Disponible
+2025-05-07,10:03:21,Quintana Roo,9,Disponible
+2025-05-07,10:03:21,San Luis Potosí,502,Disponible
+2025-05-07,10:03:21,SABG,205559,Disponible
+2025-05-07,10:03:21,Sinaloa,294,Disponible
+2025-05-07,10:03:21,Tabasco,468,Disponible
+2025-05-07,10:03:21,Tlaxcala,22,Disponible
+2025-05-07,10:03:21,Veracruz,62,Disponible
+2025-05-07,10:03:21,Yucatán,ERROR,No disponible/Error reportado por la API
+2025-05-07,10:03:21,Zacatecas,445,Disponible
+2025-05-07,10:03:21,COFECE,100,Disponible
+2025-05-07,10:03:21,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-08,10:02:29,Aguascalientes,1621,Disponible
+2025-05-08,10:02:29,Baja California Sur,80,Disponible
+2025-05-08,10:02:29,Campeche,ERROR,No disponible/Error reportado por la API
+2025-05-08,10:02:29,Chiapas,798,Disponible
+2025-05-08,10:02:29,Chihuahua,796,Disponible
+2025-05-08,10:02:29,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-05-08,10:02:29,Durango,1771,Disponible
+2025-05-08,10:02:29,México,6259,Disponible
+2025-05-08,10:02:29,Guanajuato,509,Disponible
+2025-05-08,10:02:29,Guerrero,29,Disponible
+2025-05-08,10:02:29,INEGI,3394,Disponible
+2025-05-08,10:02:29,Jalisco,2081,Disponible
+2025-05-08,10:02:29,Michoacán,468,Disponible
+2025-05-08,10:02:29,Morelos,670,Disponible
+2025-05-08,10:02:29,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-08,10:02:29,Puebla,597,Disponible
+2025-05-08,10:02:29,Querétaro,283,Disponible
+2025-05-08,10:02:29,Quintana Roo,9,Disponible
+2025-05-08,10:02:29,San Luis Potosí,502,Disponible
+2025-05-08,10:02:29,SABG,205559,Disponible
+2025-05-08,10:02:29,Sinaloa,294,Disponible
+2025-05-08,10:02:29,Tabasco,468,Disponible
+2025-05-08,10:02:29,Tlaxcala,22,Disponible
+2025-05-08,10:02:29,Veracruz,62,Disponible
+2025-05-08,10:02:29,Yucatán,16,Disponible
+2025-05-08,10:02:29,Zacatecas,445,Disponible
+2025-05-08,10:02:29,COFECE,100,Disponible
+2025-05-08,10:02:29,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-09,10:21:02,Aguascalientes,1621,Disponible
+2025-05-09,10:21:02,Baja California Sur,80,Disponible
+2025-05-09,10:21:02,Campeche,136,Disponible
+2025-05-09,10:21:02,Chiapas,798,Disponible
+2025-05-09,10:21:02,Chihuahua,796,Disponible
+2025-05-09,10:21:02,Coahuila,220,Disponible
+2025-05-09,10:21:02,Durango,1771,Disponible
+2025-05-09,10:21:02,México,ERROR,No disponible/Error reportado por la API
+2025-05-09,10:21:02,Guanajuato,509,Disponible
+2025-05-09,10:21:02,Guerrero,29,Disponible
+2025-05-09,10:21:02,INEGI,3394,Disponible
+2025-05-09,10:21:02,Jalisco,2081,Disponible
+2025-05-09,10:21:02,Michoacán,468,Disponible
+2025-05-09,10:21:02,Morelos,670,Disponible
+2025-05-09,10:21:02,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-09,10:21:02,Puebla,ERROR,No disponible/Error reportado por la API
+2025-05-09,10:21:02,Querétaro,283,Disponible
+2025-05-09,10:21:02,Quintana Roo,9,Disponible
+2025-05-09,10:21:02,San Luis Potosí,503,Disponible
+2025-05-09,10:21:02,SABG,205559,Disponible
+2025-05-09,10:21:02,Sinaloa,294,Disponible
+2025-05-09,10:21:02,Tabasco,ERROR,No disponible/Error reportado por la API
+2025-05-09,10:21:02,Tlaxcala,22,Disponible
+2025-05-09,10:21:02,Veracruz,62,Disponible
+2025-05-09,10:21:02,Yucatán,16,Disponible
+2025-05-09,10:21:02,Zacatecas,446,Disponible
+2025-05-09,10:21:02,COFECE,100,Disponible
+2025-05-09,10:21:02,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-12,10:03:15,Aguascalientes,1621,Disponible
+2025-05-12,10:03:15,Baja California Sur,80,Disponible
+2025-05-12,10:03:15,Campeche,136,Disponible
+2025-05-12,10:03:15,Chiapas,798,Disponible
+2025-05-12,10:03:15,Chihuahua,793,Disponible
+2025-05-12,10:03:15,Coahuila,220,Disponible
+2025-05-12,10:03:15,Durango,1771,Disponible
+2025-05-12,10:03:15,México,6278,Disponible
+2025-05-12,10:03:15,Guanajuato,509,Disponible
+2025-05-12,10:03:15,Guerrero,29,Disponible
+2025-05-12,10:03:15,INEGI,3394,Disponible
+2025-05-12,10:03:15,Jalisco,2081,Disponible
+2025-05-12,10:03:15,Michoacán,468,Disponible
+2025-05-12,10:03:15,Morelos,670,Disponible
+2025-05-12,10:03:15,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-12,10:03:15,Puebla,598,Disponible
+2025-05-12,10:03:15,Querétaro,283,Disponible
+2025-05-12,10:03:15,Quintana Roo,9,Disponible
+2025-05-12,10:03:15,San Luis Potosí,503,Disponible
+2025-05-12,10:03:15,SABG,205559,Disponible
+2025-05-12,10:03:15,Sinaloa,294,Disponible
+2025-05-12,10:03:15,Tabasco,468,Disponible
+2025-05-12,10:03:15,Tlaxcala,22,Disponible
+2025-05-12,10:03:15,Veracruz,62,Disponible
+2025-05-12,10:03:15,Yucatán,16,Disponible
+2025-05-12,10:03:15,Zacatecas,446,Disponible
+2025-05-12,10:03:15,COFECE,100,Disponible
+2025-05-12,10:03:15,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-13,10:03:16,Aguascalientes,1624,Disponible
+2025-05-13,10:03:16,Baja California Sur,80,Disponible
+2025-05-13,10:03:16,Campeche,136,Disponible
+2025-05-13,10:03:16,Chiapas,798,Disponible
+2025-05-13,10:03:16,Chihuahua,793,Disponible
+2025-05-13,10:03:16,Coahuila,220,Disponible
+2025-05-13,10:03:16,Durango,1770,Disponible
+2025-05-13,10:03:16,México,6282,Disponible
+2025-05-13,10:03:16,Guanajuato,509,Disponible
+2025-05-13,10:03:16,Guerrero,29,Disponible
+2025-05-13,10:03:16,INEGI,3394,Disponible
+2025-05-13,10:03:16,Jalisco,2081,Disponible
+2025-05-13,10:03:16,Michoacán,468,Disponible
+2025-05-13,10:03:16,Morelos,670,Disponible
+2025-05-13,10:03:16,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-13,10:03:16,Puebla,598,Disponible
+2025-05-13,10:03:16,Querétaro,284,Disponible
+2025-05-13,10:03:16,Quintana Roo,9,Disponible
+2025-05-13,10:03:16,San Luis Potosí,482,Disponible
+2025-05-13,10:03:16,SABG,205559,Disponible
+2025-05-13,10:03:16,Sinaloa,294,Disponible
+2025-05-13,10:03:16,Tabasco,468,Disponible
+2025-05-13,10:03:16,Tlaxcala,22,Disponible
+2025-05-13,10:03:16,Veracruz,62,Disponible
+2025-05-13,10:03:16,Yucatán,16,Disponible
+2025-05-13,10:03:16,Zacatecas,446,Disponible
+2025-05-13,10:03:16,COFECE,100,Disponible
+2025-05-13,10:03:16,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-14,10:03:10,Aguascalientes,1624,Disponible
+2025-05-14,10:03:10,Baja California Sur,80,Disponible
+2025-05-14,10:03:10,Campeche,136,Disponible
+2025-05-14,10:03:10,Chiapas,798,Disponible
+2025-05-14,10:03:10,Chihuahua,793,Disponible
+2025-05-14,10:03:10,Coahuila,220,Disponible
+2025-05-14,10:03:10,Durango,1770,Disponible
+2025-05-14,10:03:10,México,6283,Disponible
+2025-05-14,10:03:10,Guanajuato,509,Disponible
+2025-05-14,10:03:10,Guerrero,29,Disponible
+2025-05-14,10:03:10,INEGI,3394,Disponible
+2025-05-14,10:03:10,Jalisco,2081,Disponible
+2025-05-14,10:03:10,Michoacán,468,Disponible
+2025-05-14,10:03:10,Morelos,670,Disponible
+2025-05-14,10:03:10,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-14,10:03:10,Puebla,598,Disponible
+2025-05-14,10:03:10,Querétaro,284,Disponible
+2025-05-14,10:03:10,Quintana Roo,9,Disponible
+2025-05-14,10:03:10,San Luis Potosí,482,Disponible
+2025-05-14,10:03:10,SABG,205559,Disponible
+2025-05-14,10:03:10,Sinaloa,294,Disponible
+2025-05-14,10:03:10,Tabasco,468,Disponible
+2025-05-14,10:03:10,Tlaxcala,22,Disponible
+2025-05-14,10:03:10,Veracruz,62,Disponible
+2025-05-14,10:03:10,Yucatán,16,Disponible
+2025-05-14,10:03:10,Zacatecas,446,Disponible
+2025-05-14,10:03:10,COFECE,100,Disponible
+2025-05-14,10:03:10,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-15,10:03:09,Aguascalientes,1624,Disponible
+2025-05-15,10:03:09,Baja California Sur,80,Disponible
+2025-05-15,10:03:09,Campeche,136,Disponible
+2025-05-15,10:03:09,Chiapas,798,Disponible
+2025-05-15,10:03:09,Chihuahua,793,Disponible
+2025-05-15,10:03:09,Coahuila,220,Disponible
+2025-05-15,10:03:09,Durango,1770,Disponible
+2025-05-15,10:03:09,México,6285,Disponible
+2025-05-15,10:03:09,Guanajuato,509,Disponible
+2025-05-15,10:03:09,Guerrero,29,Disponible
+2025-05-15,10:03:09,INEGI,3394,Disponible
+2025-05-15,10:03:09,Jalisco,2081,Disponible
+2025-05-15,10:03:09,Michoacán,468,Disponible
+2025-05-15,10:03:09,Morelos,670,Disponible
+2025-05-15,10:03:09,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-15,10:03:09,Puebla,589,Disponible
+2025-05-15,10:03:09,Querétaro,284,Disponible
+2025-05-15,10:03:09,Quintana Roo,9,Disponible
+2025-05-15,10:03:09,San Luis Potosí,482,Disponible
+2025-05-15,10:03:09,SABG,205559,Disponible
+2025-05-15,10:03:09,Sinaloa,294,Disponible
+2025-05-15,10:03:09,Tabasco,468,Disponible
+2025-05-15,10:03:09,Tlaxcala,22,Disponible
+2025-05-15,10:03:09,Veracruz,62,Disponible
+2025-05-15,10:03:09,Yucatán,16,Disponible
+2025-05-15,10:03:09,Zacatecas,446,Disponible
+2025-05-15,10:03:09,COFECE,100,Disponible
+2025-05-15,10:03:09,CNDH,45,Disponible
+2025-05-16,10:02:58,Aguascalientes,1619,Disponible
+2025-05-16,10:02:58,Baja California Sur,80,Disponible
+2025-05-16,10:02:58,Campeche,136,Disponible
+2025-05-16,10:02:58,Chiapas,798,Disponible
+2025-05-16,10:02:58,Chihuahua,793,Disponible
+2025-05-16,10:02:58,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-05-16,10:02:58,Durango,1774,Disponible
+2025-05-16,10:02:58,México,6293,Disponible
+2025-05-16,10:02:58,Guanajuato,509,Disponible
+2025-05-16,10:02:58,Guerrero,29,Disponible
+2025-05-16,10:02:58,INEGI,3394,Disponible
+2025-05-16,10:02:58,Jalisco,2081,Disponible
+2025-05-16,10:02:58,Michoacán,468,Disponible
+2025-05-16,10:02:58,Morelos,670,Disponible
+2025-05-16,10:02:58,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-16,10:02:58,Puebla,589,Disponible
+2025-05-16,10:02:58,Querétaro,284,Disponible
+2025-05-16,10:02:58,Quintana Roo,9,Disponible
+2025-05-16,10:02:58,San Luis Potosí,482,Disponible
+2025-05-16,10:02:58,SABG,205559,Disponible
+2025-05-16,10:02:58,Sinaloa,294,Disponible
+2025-05-16,10:02:58,Tabasco,468,Disponible
+2025-05-16,10:02:58,Tlaxcala,22,Disponible
+2025-05-16,10:02:58,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-05-16,10:02:58,Yucatán,16,Disponible
+2025-05-16,10:02:58,Zacatecas,446,Disponible
+2025-05-16,10:02:58,COFECE,100,Disponible
+2025-05-16,10:02:58,CNDH,45,Disponible
+2025-05-19,10:03:12,Aguascalientes,1618,Disponible
+2025-05-19,10:03:12,Baja California Sur,80,Disponible
+2025-05-19,10:03:12,Campeche,136,Disponible
+2025-05-19,10:03:12,Chiapas,798,Disponible
+2025-05-19,10:03:12,Chihuahua,793,Disponible
+2025-05-19,10:03:12,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-05-19,10:03:12,Durango,1774,Disponible
+2025-05-19,10:03:12,México,6298,Disponible
+2025-05-19,10:03:12,Guanajuato,509,Disponible
+2025-05-19,10:03:12,Guerrero,29,Disponible
+2025-05-19,10:03:12,INEGI,3394,Disponible
+2025-05-19,10:03:12,Jalisco,2081,Disponible
+2025-05-19,10:03:12,Michoacán,468,Disponible
+2025-05-19,10:03:12,Morelos,670,Disponible
+2025-05-19,10:03:12,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-19,10:03:12,Puebla,593,Disponible
+2025-05-19,10:03:12,Querétaro,284,Disponible
+2025-05-19,10:03:12,Quintana Roo,9,Disponible
+2025-05-19,10:03:12,San Luis Potosí,426,Disponible
+2025-05-19,10:03:12,SABG,205559,Disponible
+2025-05-19,10:03:12,Sinaloa,294,Disponible
+2025-05-19,10:03:12,Tabasco,468,Disponible
+2025-05-19,10:03:12,Tlaxcala,22,Disponible
+2025-05-19,10:03:12,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-05-19,10:03:12,Yucatán,16,Disponible
+2025-05-19,10:03:12,Zacatecas,446,Disponible
+2025-05-19,10:03:12,COFECE,100,Disponible
+2025-05-19,10:03:12,CNDH,45,Disponible
+2025-05-20,10:02:51,Aguascalientes,1616,Disponible
+2025-05-20,10:02:51,Baja California Sur,80,Disponible
+2025-05-20,10:02:51,Campeche,136,Disponible
+2025-05-20,10:02:51,Chiapas,798,Disponible
+2025-05-20,10:02:51,Chihuahua,793,Disponible
+2025-05-20,10:02:51,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-05-20,10:02:51,Durango,1775,Disponible
+2025-05-20,10:02:51,México,6298,Disponible
+2025-05-20,10:02:51,Guanajuato,509,Disponible
+2025-05-20,10:02:51,Guerrero,29,Disponible
+2025-05-20,10:02:51,INEGI,ERROR,No disponible/Error reportado por la API
+2025-05-20,10:02:51,Jalisco,2081,Disponible
+2025-05-20,10:02:51,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-20,10:02:51,Morelos,670,Disponible
+2025-05-20,10:02:51,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-20,10:02:51,Puebla,593,Disponible
+2025-05-20,10:02:51,Querétaro,284,Disponible
+2025-05-20,10:02:51,Quintana Roo,9,Disponible
+2025-05-20,10:02:51,San Luis Potosí,426,Disponible
+2025-05-20,10:02:51,SABG,205559,Disponible
+2025-05-20,10:02:51,Sinaloa,294,Disponible
+2025-05-20,10:02:51,Tabasco,468,Disponible
+2025-05-20,10:02:51,Tlaxcala,22,Disponible
+2025-05-20,10:02:51,Veracruz,62,Disponible
+2025-05-20,10:02:51,Yucatán,16,Disponible
+2025-05-20,10:02:51,Zacatecas,442,Disponible
+2025-05-20,10:02:51,COFECE,100,Disponible
+2025-05-20,10:02:51,CNDH,ERROR,No disponible/Error reportado por la API
+2025-05-21,10:02:55,Aguascalientes,1617,Disponible
+2025-05-21,10:02:55,Baja California Sur,80,Disponible
+2025-05-21,10:02:55,Campeche,136,Disponible
+2025-05-21,10:02:55,Chiapas,798,Disponible
+2025-05-21,10:02:55,Chihuahua,793,Disponible
+2025-05-21,10:02:55,Coahuila,220,Disponible
+2025-05-21,10:02:55,Durango,1775,Disponible
+2025-05-21,10:02:55,México,6313,Disponible
+2025-05-21,10:02:55,Guanajuato,509,Disponible
+2025-05-21,10:02:55,Guerrero,29,Disponible
+2025-05-21,10:02:55,INEGI,3394,Disponible
+2025-05-21,10:02:55,Jalisco,2081,Disponible
+2025-05-21,10:02:55,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-21,10:02:55,Morelos,670,Disponible
+2025-05-21,10:02:55,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-21,10:02:55,Puebla,593,Disponible
+2025-05-21,10:02:55,Querétaro,284,Disponible
+2025-05-21,10:02:55,Quintana Roo,9,Disponible
+2025-05-21,10:02:55,San Luis Potosí,493,Disponible
+2025-05-21,10:02:55,SABG,205559,Disponible
+2025-05-21,10:02:55,Sinaloa,294,Disponible
+2025-05-21,10:02:55,Tabasco,468,Disponible
+2025-05-21,10:02:55,Tlaxcala,22,Disponible
+2025-05-21,10:02:55,Veracruz,62,Disponible
+2025-05-21,10:02:55,Yucatán,16,Disponible
+2025-05-21,10:02:55,Zacatecas,442,Disponible
+2025-05-21,10:02:55,COFECE,100,Disponible
+2025-05-21,10:02:55,CNDH,45,Disponible
+2025-05-22,10:02:54,Aguascalientes,1617,Disponible
+2025-05-22,10:02:54,Baja California Sur,80,Disponible
+2025-05-22,10:02:54,Campeche,136,Disponible
+2025-05-22,10:02:54,Chiapas,798,Disponible
+2025-05-22,10:02:54,Chihuahua,793,Disponible
+2025-05-22,10:02:54,Coahuila,220,Disponible
+2025-05-22,10:02:54,Durango,1775,Disponible
+2025-05-22,10:02:54,México,6319,Disponible
+2025-05-22,10:02:54,Guanajuato,509,Disponible
+2025-05-22,10:02:54,Guerrero,29,Disponible
+2025-05-22,10:02:54,INEGI,3394,Disponible
+2025-05-22,10:02:54,Jalisco,2081,Disponible
+2025-05-22,10:02:54,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-22,10:02:54,Morelos,670,Disponible
+2025-05-22,10:02:54,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-22,10:02:54,Puebla,593,Disponible
+2025-05-22,10:02:54,Querétaro,284,Disponible
+2025-05-22,10:02:54,Quintana Roo,9,Disponible
+2025-05-22,10:02:54,San Luis Potosí,520,Disponible
+2025-05-22,10:02:54,SABG,205559,Disponible
+2025-05-22,10:02:54,Sinaloa,294,Disponible
+2025-05-22,10:02:54,Tabasco,468,Disponible
+2025-05-22,10:02:54,Tlaxcala,22,Disponible
+2025-05-22,10:02:54,Veracruz,62,Disponible
+2025-05-22,10:02:54,Yucatán,16,Disponible
+2025-05-22,10:02:54,Zacatecas,442,Disponible
+2025-05-22,10:02:54,COFECE,ERROR,No disponible/Error reportado por la API
+2025-05-22,10:02:54,CNDH,45,Disponible
+2025-05-23,10:03:13,Aguascalientes,1617,Disponible
+2025-05-23,10:03:13,Baja California Sur,80,Disponible
+2025-05-23,10:03:13,Campeche,136,Disponible
+2025-05-23,10:03:13,Chiapas,798,Disponible
+2025-05-23,10:03:13,Chihuahua,793,Disponible
+2025-05-23,10:03:13,Coahuila,220,Disponible
+2025-05-23,10:03:13,Durango,1775,Disponible
+2025-05-23,10:03:13,México,6335,Disponible
+2025-05-23,10:03:13,Guanajuato,509,Disponible
+2025-05-23,10:03:13,Guerrero,29,Disponible
+2025-05-23,10:03:13,INEGI,3394,Disponible
+2025-05-23,10:03:13,Jalisco,2107,Disponible
+2025-05-23,10:03:13,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-23,10:03:13,Morelos,670,Disponible
+2025-05-23,10:03:13,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-23,10:03:13,Puebla,593,Disponible
+2025-05-23,10:03:13,Querétaro,284,Disponible
+2025-05-23,10:03:13,Quintana Roo,9,Disponible
+2025-05-23,10:03:13,San Luis Potosí,520,Disponible
+2025-05-23,10:03:13,SABG,205559,Disponible
+2025-05-23,10:03:13,Sinaloa,294,Disponible
+2025-05-23,10:03:13,Tabasco,468,Disponible
+2025-05-23,10:03:13,Tlaxcala,22,Disponible
+2025-05-23,10:03:13,Veracruz,62,Disponible
+2025-05-23,10:03:13,Yucatán,16,Disponible
+2025-05-23,10:03:13,Zacatecas,442,Disponible
+2025-05-23,10:03:13,COFECE,100,Disponible
+2025-05-23,10:03:13,CNDH,45,Disponible
+2025-05-26,10:02:41,Aguascalientes,1617,Disponible
+2025-05-26,10:02:41,Baja California Sur,80,Disponible
+2025-05-26,10:02:41,Campeche,ERROR,No disponible/Error reportado por la API
+2025-05-26,10:02:41,Chiapas,798,Disponible
+2025-05-26,10:02:41,Chihuahua,793,Disponible
+2025-05-26,10:02:41,Coahuila,220,Disponible
+2025-05-26,10:02:41,Durango,1775,Disponible
+2025-05-26,10:02:41,México,6333,Disponible
+2025-05-26,10:02:41,Guanajuato,509,Disponible
+2025-05-26,10:02:41,Guerrero,29,Disponible
+2025-05-26,10:02:41,INEGI,3394,Disponible
+2025-05-26,10:02:41,Jalisco,2107,Disponible
+2025-05-26,10:02:41,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-26,10:02:41,Morelos,670,Disponible
+2025-05-26,10:02:41,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-26,10:02:41,Puebla,593,Disponible
+2025-05-26,10:02:41,Querétaro,284,Disponible
+2025-05-26,10:02:41,Quintana Roo,9,Disponible
+2025-05-26,10:02:41,San Luis Potosí,520,Disponible
+2025-05-26,10:02:41,SABG,205559,Disponible
+2025-05-26,10:02:41,Sinaloa,294,Disponible
+2025-05-26,10:02:41,Tabasco,468,Disponible
+2025-05-26,10:02:41,Tlaxcala,22,Disponible
+2025-05-26,10:02:41,Veracruz,62,Disponible
+2025-05-26,10:02:41,Yucatán,16,Disponible
+2025-05-26,10:02:41,Zacatecas,442,Disponible
+2025-05-26,10:02:41,COFECE,ERROR,No disponible/Error reportado por la API
+2025-05-26,10:02:41,CNDH,45,Disponible
+2025-05-27,10:02:38,Aguascalientes,1617,Disponible
+2025-05-27,10:02:38,Baja California Sur,80,Disponible
+2025-05-27,10:02:38,Campeche,138,Disponible
+2025-05-27,10:02:38,Chiapas,798,Disponible
+2025-05-27,10:02:38,Chihuahua,793,Disponible
+2025-05-27,10:02:38,Coahuila,220,Disponible
+2025-05-27,10:02:38,Durango,1775,Disponible
+2025-05-27,10:02:38,México,6385,Disponible
+2025-05-27,10:02:38,Guanajuato,509,Disponible
+2025-05-27,10:02:38,Guerrero,29,Disponible
+2025-05-27,10:02:38,INEGI,3394,Disponible
+2025-05-27,10:02:38,Jalisco,2107,Disponible
+2025-05-27,10:02:38,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-27,10:02:38,Morelos,670,Disponible
+2025-05-27,10:02:38,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-27,10:02:38,Puebla,593,Disponible
+2025-05-27,10:02:38,Querétaro,ERROR,No disponible/Error reportado por la API
+2025-05-27,10:02:38,Quintana Roo,9,Disponible
+2025-05-27,10:02:38,San Luis Potosí,520,Disponible
+2025-05-27,10:02:38,SABG,205559,Disponible
+2025-05-27,10:02:38,Sinaloa,294,Disponible
+2025-05-27,10:02:38,Tabasco,468,Disponible
+2025-05-27,10:02:38,Tlaxcala,22,Disponible
+2025-05-27,10:02:38,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-05-27,10:02:38,Yucatán,16,Disponible
+2025-05-27,10:02:38,Zacatecas,442,Disponible
+2025-05-27,10:02:38,COFECE,100,Disponible
+2025-05-27,10:02:38,CNDH,45,Disponible
+2025-05-28,10:02:51,Aguascalientes,1617,Disponible
+2025-05-28,10:02:51,Baja California Sur,80,Disponible
+2025-05-28,10:02:51,Campeche,ERROR,No disponible/Error reportado por la API
+2025-05-28,10:02:51,Chiapas,798,Disponible
+2025-05-28,10:02:51,Chihuahua,793,Disponible
+2025-05-28,10:02:51,Coahuila,220,Disponible
+2025-05-28,10:02:51,Durango,1775,Disponible
+2025-05-28,10:02:51,México,6376,Disponible
+2025-05-28,10:02:51,Guanajuato,509,Disponible
+2025-05-28,10:02:51,Guerrero,29,Disponible
+2025-05-28,10:02:51,INEGI,3394,Disponible
+2025-05-28,10:02:51,Jalisco,2107,Disponible
+2025-05-28,10:02:51,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-28,10:02:51,Morelos,670,Disponible
+2025-05-28,10:02:51,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-28,10:02:51,Puebla,599,Disponible
+2025-05-28,10:02:51,Querétaro,ERROR,No disponible/Error reportado por la API
+2025-05-28,10:02:51,Quintana Roo,9,Disponible
+2025-05-28,10:02:51,San Luis Potosí,520,Disponible
+2025-05-28,10:02:51,SABG,205559,Disponible
+2025-05-28,10:02:51,Sinaloa,294,Disponible
+2025-05-28,10:02:51,Tabasco,467,Disponible
+2025-05-28,10:02:51,Tlaxcala,22,Disponible
+2025-05-28,10:02:51,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-05-28,10:02:51,Yucatán,16,Disponible
+2025-05-28,10:02:51,Zacatecas,442,Disponible
+2025-05-28,10:02:51,COFECE,100,Disponible
+2025-05-28,10:02:51,CNDH,45,Disponible
+2025-05-29,10:02:44,Aguascalientes,1617,Disponible
+2025-05-29,10:02:44,Baja California Sur,80,Disponible
+2025-05-29,10:02:44,Campeche,138,Disponible
+2025-05-29,10:02:44,Chiapas,798,Disponible
+2025-05-29,10:02:44,Chihuahua,793,Disponible
+2025-05-29,10:02:44,Coahuila,220,Disponible
+2025-05-29,10:02:44,Durango,1775,Disponible
+2025-05-29,10:02:44,México,6446,Disponible
+2025-05-29,10:02:44,Guanajuato,509,Disponible
+2025-05-29,10:02:44,Guerrero,29,Disponible
+2025-05-29,10:02:44,INEGI,3394,Disponible
+2025-05-29,10:02:44,Jalisco,2107,Disponible
+2025-05-29,10:02:44,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-29,10:02:44,Morelos,670,Disponible
+2025-05-29,10:02:44,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-29,10:02:44,Puebla,599,Disponible
+2025-05-29,10:02:44,Querétaro,ERROR,No disponible/Error reportado por la API
+2025-05-29,10:02:44,Quintana Roo,9,Disponible
+2025-05-29,10:02:44,San Luis Potosí,520,Disponible
+2025-05-29,10:02:44,SABG,205559,Disponible
+2025-05-29,10:02:44,Sinaloa,294,Disponible
+2025-05-29,10:02:44,Tabasco,467,Disponible
+2025-05-29,10:02:44,Tlaxcala,22,Disponible
+2025-05-29,10:02:44,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-05-29,10:02:44,Yucatán,16,Disponible
+2025-05-29,10:02:44,Zacatecas,446,Disponible
+2025-05-29,10:02:44,COFECE,100,Disponible
+2025-05-29,10:02:44,CNDH,45,Disponible
+2025-05-30,10:02:48,Aguascalientes,1618,Disponible
+2025-05-30,10:02:48,Baja California Sur,80,Disponible
+2025-05-30,10:02:48,Campeche,138,Disponible
+2025-05-30,10:02:48,Chiapas,798,Disponible
+2025-05-30,10:02:48,Chihuahua,793,Disponible
+2025-05-30,10:02:48,Coahuila,220,Disponible
+2025-05-30,10:02:48,Durango,1775,Disponible
+2025-05-30,10:02:48,México,6589,Disponible
+2025-05-30,10:02:48,Guanajuato,509,Disponible
+2025-05-30,10:02:48,Guerrero,29,Disponible
+2025-05-30,10:02:48,INEGI,3394,Disponible
+2025-05-30,10:02:48,Jalisco,2107,Disponible
+2025-05-30,10:02:48,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-30,10:02:48,Morelos,670,Disponible
+2025-05-30,10:02:48,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-30,10:02:48,Puebla,599,Disponible
+2025-05-30,10:02:48,Querétaro,ERROR,No disponible/Error reportado por la API
+2025-05-30,10:02:48,Quintana Roo,9,Disponible
+2025-05-30,10:02:48,San Luis Potosí,520,Disponible
+2025-05-30,10:02:48,SABG,205559,Disponible
+2025-05-30,10:02:48,Sinaloa,294,Disponible
+2025-05-30,10:02:48,Tabasco,467,Disponible
+2025-05-30,10:02:48,Tlaxcala,22,Disponible
+2025-05-30,10:02:48,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-05-30,10:02:48,Yucatán,16,Disponible
+2025-05-30,10:02:48,Zacatecas,446,Disponible
+2025-05-30,10:02:48,COFECE,100,Disponible
+2025-05-30,10:02:48,CNDH,45,Disponible
+2025-05-31,10:03:08,Aguascalientes,1617,Disponible
+2025-05-31,10:03:08,Baja California Sur,80,Disponible
+2025-05-31,10:03:08,Campeche,138,Disponible
+2025-05-31,10:03:08,Chiapas,798,Disponible
+2025-05-31,10:03:08,Chihuahua,793,Disponible
+2025-05-31,10:03:08,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-05-31,10:03:08,Durango,1775,Disponible
+2025-05-31,10:03:08,México,6647,Disponible
+2025-05-31,10:03:08,Guanajuato,509,Disponible
+2025-05-31,10:03:08,Guerrero,29,Disponible
+2025-05-31,10:03:08,INEGI,ERROR,No disponible/Error reportado por la API
+2025-05-31,10:03:08,Jalisco,2107,Disponible
+2025-05-31,10:03:08,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-05-31,10:03:08,Morelos,670,Disponible
+2025-05-31,10:03:08,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-05-31,10:03:08,Puebla,606,Disponible
+2025-05-31,10:03:08,Querétaro,ERROR,No disponible/Error reportado por la API
+2025-05-31,10:03:08,Quintana Roo,9,Disponible
+2025-05-31,10:03:08,San Luis Potosí,520,Disponible
+2025-05-31,10:03:08,SABG,205559,Disponible
+2025-05-31,10:03:08,Sinaloa,294,Disponible
+2025-05-31,10:03:08,Tabasco,467,Disponible
+2025-05-31,10:03:08,Tlaxcala,22,Disponible
+2025-05-31,10:03:08,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-05-31,10:03:08,Yucatán,16,Disponible
+2025-05-31,10:03:08,Zacatecas,446,Disponible
+2025-05-31,10:03:08,COFECE,100,Disponible
+2025-05-31,10:03:08,CNDH,45,Disponible
+2025-06-01,10:03:58,Aguascalientes,1617,Disponible
+2025-06-01,10:03:58,Baja California Sur,80,Disponible
+2025-06-01,10:03:58,Campeche,138,Disponible
+2025-06-01,10:03:58,Chiapas,798,Disponible
+2025-06-01,10:03:58,Chihuahua,793,Disponible
+2025-06-01,10:03:58,Coahuila,ERROR,No disponible/Error reportado por la API
+2025-06-01,10:03:58,Durango,1775,Disponible
+2025-06-01,10:03:58,México,6744,Disponible
+2025-06-01,10:03:58,Guanajuato,509,Disponible
+2025-06-01,10:03:58,Guerrero,29,Disponible
+2025-06-01,10:03:58,INEGI,ERROR,No disponible/Error reportado por la API
+2025-06-01,10:03:58,Jalisco,2107,Disponible
+2025-06-01,10:03:58,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-06-01,10:03:58,Morelos,670,Disponible
+2025-06-01,10:03:58,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-06-01,10:03:58,Puebla,606,Disponible
+2025-06-01,10:03:58,Querétaro,ERROR,No disponible/Error reportado por la API
+2025-06-01,10:03:58,Quintana Roo,9,Disponible
+2025-06-01,10:03:58,San Luis Potosí,520,Disponible
+2025-06-01,10:03:58,SABG,0,Disponible
+2025-06-01,10:03:58,Sinaloa,294,Disponible
+2025-06-01,10:03:58,Tabasco,467,Disponible
+2025-06-01,10:03:58,Tlaxcala,22,Disponible
+2025-06-01,10:03:58,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-06-01,10:03:58,Yucatán,16,Disponible
+2025-06-01,10:03:58,Zacatecas,446,Disponible
+2025-06-01,10:03:58,COFECE,100,Disponible
+2025-06-01,10:03:58,CNDH,ERROR,No disponible/Error reportado por la API
+2025-06-02,10:06:46,Aguascalientes,1620,Disponible
+2025-06-02,10:06:46,Baja California Sur,80,Disponible
+2025-06-02,10:06:46,Campeche,138,Disponible
+2025-06-02,10:06:46,Chiapas,798,Disponible
+2025-06-02,10:06:46,Chihuahua,793,Disponible
+2025-06-02,10:06:46,Coahuila,220,Disponible
+2025-06-02,10:06:46,Durango,1775,Disponible
+2025-06-02,10:06:46,México,6846,Disponible
+2025-06-02,10:06:46,Guanajuato,509,Disponible
+2025-06-02,10:06:46,Guerrero,29,Disponible
+2025-06-02,10:06:46,INEGI,3394,Disponible
+2025-06-02,10:06:46,Jalisco,2107,Disponible
+2025-06-02,10:06:46,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-06-02,10:06:46,Morelos,670,Disponible
+2025-06-02,10:06:46,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-06-02,10:06:46,Puebla,606,Disponible
+2025-06-02,10:06:46,Querétaro,ERROR,No disponible/Error reportado por la API
+2025-06-02,10:06:46,Quintana Roo,9,Disponible
+2025-06-02,10:06:46,San Luis Potosí,520,Disponible
+2025-06-02,10:06:46,SABG,0,Disponible
+2025-06-02,10:06:46,Sinaloa,294,Disponible
+2025-06-02,10:06:46,Tabasco,467,Disponible
+2025-06-02,10:06:46,Tlaxcala,22,Disponible
+2025-06-02,10:06:46,Veracruz,ERROR,No disponible/Error reportado por la API
+2025-06-02,10:06:46,Yucatán,16,Disponible
+2025-06-02,10:06:46,Zacatecas,446,Disponible
+2025-06-02,10:06:46,COFECE,100,Disponible
+2025-06-02,10:06:46,CNDH,45,Disponible
+2025-06-03,10:03:12,Aguascalientes,1620,Disponible
+2025-06-03,10:03:12,Baja California Sur,80,Disponible
+2025-06-03,10:03:12,Campeche,138,Disponible
+2025-06-03,10:03:12,Chiapas,798,Disponible
+2025-06-03,10:03:12,Chihuahua,793,Disponible
+2025-06-03,10:03:12,Coahuila,220,Disponible
+2025-06-03,10:03:12,Durango,1775,Disponible
+2025-06-03,10:03:12,México,6853,Disponible
+2025-06-03,10:03:12,Guanajuato,509,Disponible
+2025-06-03,10:03:12,Guerrero,29,Disponible
+2025-06-03,10:03:12,INEGI,3394,Disponible
+2025-06-03,10:03:12,Jalisco,2105,Disponible
+2025-06-03,10:03:12,Michoacán,ERROR,No disponible/Error reportado por la API
+2025-06-03,10:03:12,Morelos,670,Disponible
+2025-06-03,10:03:12,Oaxaca,ERROR,No disponible/Error reportado por la API
+2025-06-03,10:03:12,Puebla,606,Disponible
+2025-06-03,10:03:12,Querétaro,ERROR,No disponible/Error reportado por la API
+2025-06-03,10:03:12,Quintana Roo,9,Disponible
+2025-06-03,10:03:12,San Luis Potosí,520,Disponible
+2025-06-03,10:03:12,SABG,205559,Disponible
+2025-06-03,10:03:12,Sinaloa,294,Disponible
+2025-06-03,10:03:12,Tabasco,467,Disponible
+2025-06-03,10:03:12,Tlaxcala,22,Disponible
+2025-06-03,10:03:12,Veracruz,62,Disponible
+2025-06-03,10:03:12,Yucatán,16,Disponible
+2025-06-03,10:03:12,Zacatecas,446,Disponible
+2025-06-03,10:03:12,COFECE,100,Disponible
+2025-06-03,10:03:12,CNDH,45,Disponible

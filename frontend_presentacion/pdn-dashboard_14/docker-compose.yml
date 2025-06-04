@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  pdn-dashboard:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_ENV_MODE=local
+      - NEXT_PUBLIC_CSV_SISTEMA1_PATH=./data/s1_declaraciones.csv
+      - NEXT_PUBLIC_CSV_SISTEMA2_PATH=./data/s2_contrataciones.csv
+      - NEXT_PUBLIC_CSV_SISTEMA3_PATH=./data/s3_faltas_graves.csv
+    volumes:
+      - ./data:/app/data:ro
+    restart: unless-stopped
